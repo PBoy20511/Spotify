@@ -1,6 +1,7 @@
 import concurrent.futures
 import json
 import threading
+from time import time, sleep
 
 import pandas as pd
 import requests
@@ -10,6 +11,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 
 def timer(func):
+    """ Count how many time this function run """
+
     def inner(*args, **kwargs):
         before = time()
         f = func(*args, *kwargs)
@@ -77,8 +80,12 @@ def read_playlist(playlist_id: str) -> dict:
     global TOKEN
     url = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
     response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
-    content = json.loads(response.text)
+    if response.status_code == 429:
+        print("Sleep for 5 seconds to avoid API limit exceed")
+        sleep(5)
+        response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
 
+    content = json.loads(response.text)
     urls = dict()
     for track in content["items"]:
         try:
@@ -90,6 +97,8 @@ def read_playlist(playlist_id: str) -> dict:
 
 @timer
 def read_all_playlist(playlists: list) -> dict:
+    """ Get all of the song in numerous playlists """
+
     with concurrent.futures.ThreadPoolExecutor(max_workers=60) as executor:
         results = [
             executor.submit(read_playlist, collection) for collection in playlists
@@ -109,9 +118,7 @@ def print_dict(info: dict):
 
 
 if __name__ == "__main__":
-    import io
-    import sys
-    from time import time
+    import io, sys
 
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf8")
 
