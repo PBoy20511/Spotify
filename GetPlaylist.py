@@ -1,16 +1,41 @@
-import json
-import spotipy
-import requests
-import threading
 import concurrent.futures
+import json
+import threading
+
+import pandas as pd
+import requests
+import spotipy
 from bs4 import BeautifulSoup
 from spotipy.oauth2 import SpotifyClientCredentials
+
+
+def timer(func):
+    def inner(*args, **kwargs):
+        before = time()
+        f = func(*args, *kwargs)
+        print(f"Duration: {time() - before:.1f}s")
+        return f
+
+    return inner
+
+
+def get_playlist_from_excel(file: str) -> list:
+    """
+        Get the urls from given excel file
+        Parameter: excel file name
+        Required: excel file at least contains a column called "URL" 
+        Return: a list of urls
+    """
+
+    df = pd.read_excel(file)
+    df["URL"] = df["URL"].apply(lambda x: x[17:])
+    return df["URL"].tolist()
 
 
 def get_token(file: str) -> str:
     """
         Get verified token from Spotify
-        Parameter: file(json like file) contains client_id, client_secret
+        Parameter: file name (json like file)
         Required: client_id and client_secret to access spotify API
         Return: the verified token(type: string)
     """
@@ -29,7 +54,7 @@ def get_token(file: str) -> str:
 def use_spotipy(file: str):
     """
         Get verified access to Spotify API via using spotipy library
-        Parameter: file(json like file) contains client_id, client_secret
+        Parameter: file name(json like file)
         Required: client_id and client_secret to access spotify API
         Return: spotipy.Spotify() object
     """
@@ -52,22 +77,45 @@ def read_playlist(playlist_id: str) -> dict:
     global TOKEN
     url = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
     response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
+    content = json.loads(response.text)
 
-    return json.loads(response.text)
+    urls = dict()
+    for track in content["items"]:
+        try:
+            urls[track["track"]["name"]] = track["track"]["href"]
+        except TypeError:
+            pass
+    return urls
 
 
-def read_all_playlist(playlists):
-    ...
+@timer
+def read_all_playlist(playlists: list) -> dict:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=60) as executor:
+        results = [
+            executor.submit(read_playlist, collection) for collection in playlists
+        ]
+
+    collectionOfSongs = {
+        album: content.result()
+        for album, content in zip(playlists, concurrent.futures.as_completed(results))
+    }
+
+    return collectionOfSongs
+
+
+def print_dict(info: dict):
+    """ print out json file pretty """
+    print(json.dumps(info, indent=4))
 
 
 if __name__ == "__main__":
     import io
     import sys
+    from time import time
 
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf8")
 
-    FILE = "user.json"
+    FILE, EXCEL = "user.json", "MoodPlaylist.xlsx"
     TOKEN = get_token(FILE)
-    playlist = read_playlist("37i9dQZF1DWWqC43bGTcPc")
-    print(playlist)
-
+    playlists = get_playlist_from_excel(EXCEL)
+    a = read_all_playlist(playlists)

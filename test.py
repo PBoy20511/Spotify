@@ -17,3 +17,5 @@ url = "https://api.spotify.com/v1/audio-features/06AKEBrKUckW0KREUWRnvT"
 
 response = requests.get(url, headers={"Authorization": f"Bearer {token}"})
 print(type(json.loads(response.text)))
+print(len("spotify:playlist:"))
+

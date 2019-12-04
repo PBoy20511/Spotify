@@ -105,5 +105,6 @@ venv.bak/
 
 
 # Secret File
-user.json
 /.vscode
+user.json
+test.py
