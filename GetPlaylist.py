@@ -1,7 +1,8 @@
 import concurrent.futures
 import json
 import threading
-from time import time, sleep
+from time import sleep, time
+from typing import Callable
 
 import pandas as pd
 import requests
@@ -54,7 +55,7 @@ def get_token(file: str) -> str:
     return token
 
 
-def use_spotipy(file: str):
+def use_spotipy(file: str) -> Callable:
     """
         Get verified access to Spotify API via using spotipy library
         Parameter: file name(json like file)
@@ -87,12 +88,14 @@ def read_playlist(playlist_id: str) -> dict:
         response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
 
     content = json.loads(response.text)
+
     urls = dict()
     for track in content["items"]:
         try:
             urls[track["track"]["name"]] = track["track"]["href"]
         except TypeError:
             pass
+    
     return urls
 
 
