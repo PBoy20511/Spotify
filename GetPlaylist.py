@@ -22,17 +22,17 @@ def timer(func):
     return inner
 
 
-def get_playlist_from_excel(file: str) -> list:
+def get_playlist_from_excel(file: str) -> tuple:
     """
         Get the urls from given excel file
         Parameter: excel file name
         Required: excel file at least contains a column called "URL" 
-        Return: a list of urls
+        Return: a list of urls and playlist name
     """
 
     df = pd.read_excel(file)
     df["URL"] = df["URL"].apply(lambda x: x[17:])
-    return df["URL"].tolist()
+    return df["Name"].tolist(), df["URL"].tolist()
 
 
 def get_token(file: str) -> str:
@@ -79,10 +79,11 @@ def read_playlist(playlist_id: str) -> dict:
 
     global TOKEN
     url = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
+
+    # API Limit Exceed(429 Error) Situation Handled
     response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
-    if response.status_code == 429:
-        print("Sleep for 5 seconds to avoid API limit exceed")
-        sleep(5)
+    while response.status_code == 429:
+        sleep(1)
         response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
 
     content = json.loads(response.text)
@@ -99,6 +100,7 @@ def read_playlist(playlist_id: str) -> dict:
 def read_all_playlist(playlists: list) -> dict:
     """ Get all of the song in numerous playlists """
 
+    global name
     with concurrent.futures.ThreadPoolExecutor(max_workers=60) as executor:
         results = [
             executor.submit(read_playlist, collection) for collection in playlists
@@ -106,7 +108,7 @@ def read_all_playlist(playlists: list) -> dict:
 
     collectionOfSongs = {
         album: content.result()
-        for album, content in zip(playlists, concurrent.futures.as_completed(results))
+        for album, content in zip(name, concurrent.futures.as_completed(results))
     }
 
     return collectionOfSongs
@@ -124,5 +126,6 @@ if __name__ == "__main__":
 
     FILE, EXCEL = "user.json", "MoodPlaylist.xlsx"
     TOKEN = get_token(FILE)
-    playlists = get_playlist_from_excel(EXCEL)
+    name, playlists = get_playlist_from_excel(EXCEL)
     a = read_all_playlist(playlists)
+    # print(a)
