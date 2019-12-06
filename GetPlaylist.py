@@ -95,7 +95,7 @@ def read_playlist(playlist_id: str) -> dict:
             urls[track["track"]["name"]] = track["track"]["href"]
         except TypeError:
             pass
-    
+
     return urls
 
 
@@ -122,13 +122,25 @@ def print_dict(info: dict):
     print(json.dumps(info, indent=4))
 
 
+def write_json(file: str, data: dict):
+    """
+        Write json file
+        Parameter: file(string), data(dictionary)
+    """
+
+    with open(file, "w+", encoding="utf-8") as outfile:
+        json.dump(data, outfile, indent=4)
+
+
 if __name__ == "__main__":
     import io, sys
 
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf8")
 
     FILE, EXCEL = "user.json", "MoodPlaylist.xlsx"
+    OUTPUT_FILE = "情調.json"
     TOKEN = get_token(FILE)
     name, playlists = get_playlist_from_excel(EXCEL)
-    a = read_all_playlist(playlists)
-    # print(a)
+    data = read_all_playlist(playlists)
+    print(data)
+    # write_json(OUTPUT_FILE, data)
