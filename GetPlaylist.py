@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from spotipy.oauth2 import SpotifyClientCredentials
 
 
-def timer(func):
+def timer(func: Callable):
     """ Count how many time this function run """
 
     def inner(*args, **kwargs):
@@ -33,7 +33,9 @@ def get_playlist_from_excel(file: str) -> tuple:
 
     df = pd.read_excel(file)
     df["URL"] = df["URL"].apply(lambda x: x[17:])
-    return df["Name"].tolist(), df["URL"].tolist()
+    nameDict = {url: name for name, url in zip(df["Name"], df["URL"])}
+
+    return nameDict, list(nameDict.keys())
 
 
 def get_token(file: str) -> str:
@@ -70,15 +72,16 @@ def use_spotipy(file: str) -> Callable:
     return spotipy.Spotify(client_credentials_manager=credentials)
 
 
-def read_playlist(playlist_id: str) -> dict:
+def read_playlist(playlist_id: str) -> list:
     """
         Get all tracks of given playlist
         Parameter: playlist_id(string)
         Required: playlist ID(Spotify URI)
-        Return: dictionary contains information of given playlist
+        Return: list contains information of given playlist
     """
 
     global TOKEN
+    global ALBUMDICT
     url = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
 
     # API Limit Exceed(429 Error) Situation Handled
@@ -89,10 +92,12 @@ def read_playlist(playlist_id: str) -> dict:
 
     content = json.loads(response.text)
 
-    urls = dict()
+    urls = list()
     for track in content["items"]:
         try:
-            urls[track["track"]["name"]] = track["track"]["href"]
+            urls.append(
+                [track["track"]["name"], track["track"]["href"], ALBUMDICT[playlist_id]]
+            )
         except TypeError:
             pass
 
@@ -100,19 +105,19 @@ def read_playlist(playlist_id: str) -> dict:
 
 
 @timer
-def read_all_playlist(playlists: list) -> dict:
+def read_all_playlist(playlists: list) -> list:
     """ Get all of the song in numerous playlists """
 
-    global name
     with concurrent.futures.ThreadPoolExecutor(max_workers=60) as executor:
         results = [
             executor.submit(read_playlist, collection) for collection in playlists
         ]
 
-    collectionOfSongs = {
-        album: content.result()
-        for album, content in zip(name, concurrent.futures.as_completed(results))
-    }
+    collectionOfSongs = [
+        {"song": song, "url": url, "album": album}
+        for content in concurrent.futures.as_completed(results)
+        for song, url, album in content.result()
+    ]
 
     return collectionOfSongs
 
@@ -122,14 +127,14 @@ def print_dict(info: dict):
     print(json.dumps(info, indent=4))
 
 
-def write_json(file: str, data: dict):
+def write_csv(file: str, data: list):
     """
-        Write json file
-        Parameter: file(string), data(dictionary)
+        Write csv file
+        Parameter: file(string), data(dictionaries of list)
     """
 
-    with open(file, "w+", encoding="utf-8") as outfile:
-        json.dump(data, outfile, indent=4)
+    df = pd.DataFrame.from_dict(data, orient="columns")
+    df.to_csv(file, index=False, encoding="utf-8")
 
 
 if __name__ == "__main__":
@@ -138,9 +143,10 @@ if __name__ == "__main__":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf8")
 
     FILE, EXCEL = "user.json", "MoodPlaylist.xlsx"
-    OUTPUT_FILE = "情調.json"
+    OUTPUT_FILE = "情調.csv"
     TOKEN = get_token(FILE)
-    name, playlists = get_playlist_from_excel(EXCEL)
+    ALBUMDICT, playlists = get_playlist_from_excel(EXCEL)
     data = read_all_playlist(playlists)
-    print(data)
-    # write_json(OUTPUT_FILE, data)
+    # data = read_playlist("37i9dQZF1DX71sJP2OzuBP")
+    # print(data)
+    write_csv(OUTPUT_FILE, data)
