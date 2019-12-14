@@ -144,8 +144,7 @@ def write_csv(file: str, data: list):
 
 
 if __name__ == "__main__":
-    import io
-    import sys
+    import io, sys
 
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf8")
 
