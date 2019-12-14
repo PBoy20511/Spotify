@@ -155,5 +155,5 @@ if __name__ == "__main__":
     ALBUMDICT, playlists = get_playlist_from_excel(EXCEL)
     data = read_all_playlist(playlists)
     # data = read_playlist("37i9dQZF1DX71sJP2OzuBP")
-    print(data)
+    # print(data)
     write_csv(OUTPUT_FILE, data)
