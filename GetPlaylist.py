@@ -33,8 +33,8 @@ def get_playlist_from_excel(file: str) -> tuple:
 
     df = pd.read_excel(file)
     df["URL"] = df["URL"].apply(lambda x: x[17:])
-    nameDict = {url: name for name, url in zip(df["Name"], df["URL"])}
 
+    nameDict = {url: name for url, name in zip(df["URL"], df["Name"])}
     return nameDict, list(nameDict.keys())
 
 
@@ -96,7 +96,12 @@ def read_playlist(playlist_id: str) -> list:
     for track in content["items"]:
         try:
             urls.append(
-                [track["track"]["name"], track["track"]["href"], ALBUMDICT[playlist_id]]
+                [
+                    track["track"]["name"],
+                    track["track"]["id"],
+                    track["track"]["album"]["artists"][0]["name"],
+                    ALBUMDICT[playlist_id],
+                ]
             )
         except TypeError:
             pass
@@ -114,9 +119,9 @@ def read_all_playlist(playlists: list) -> list:
         ]
 
     collectionOfSongs = [
-        {"song": song, "url": url, "album": album}
+        {"song": song, "id": uri, "singer": singer, "album": album}
         for content in concurrent.futures.as_completed(results)
-        for song, url, album in content.result()
+        for song, uri, singer, album in content.result()
     ]
 
     return collectionOfSongs
@@ -134,19 +139,21 @@ def write_csv(file: str, data: list):
     """
 
     df = pd.DataFrame.from_dict(data, orient="columns")
+    df = df.drop_duplicates(subset="song", keep="first")
     df.to_csv(file, index=False, encoding="utf-8")
 
 
 if __name__ == "__main__":
-    import io, sys
+    import io
+    import sys
 
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf8")
 
     FILE, EXCEL = "user.json", "MoodPlaylist.xlsx"
-    OUTPUT_FILE = "情調.csv"
+    OUTPUT_FILE = "Mood.csv"
     TOKEN = get_token(FILE)
     ALBUMDICT, playlists = get_playlist_from_excel(EXCEL)
     data = read_all_playlist(playlists)
     # data = read_playlist("37i9dQZF1DX71sJP2OzuBP")
-    # print(data)
+    print(data)
     write_csv(OUTPUT_FILE, data)
