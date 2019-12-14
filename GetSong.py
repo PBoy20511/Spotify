@@ -21,10 +21,11 @@ def read_song(url: str) -> list:
     # API Limit Exceed(429 Error) Situation Handled
     response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
     while response.status_code == 429:
-        sleep(5)
+        sleep(1)
         response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
 
     content = json.loads(response.text)
+    print_dict(content)
     for i in ["type", "id", "uri", "track_href", "analysis_url"]:
         del content[i]
 
@@ -51,8 +52,8 @@ def merge_dataframe(info: pd.DataFrame, data: list) -> pd.DataFrame:
 
     feature = pd.DataFrame.from_dict(data, orient="columns")
     newDf = pd.merge(info, feature, on="song")
-    newDf = newDf.drop_duplicates(subset=["song"], keep="first")
-    return newDf
+
+    return newDf.drop_duplicates(subset=["song"], keep="first")
 
 
 if __name__ == "__main__":
@@ -62,11 +63,11 @@ if __name__ == "__main__":
 
     FILE, CSV = "user.json", "情調.csv"
     TOKEN = get_token(FILE)
-    df = pd.read_csv(CSV)
-    nameList = df["song"].tolist()
-    songList = df["url"].apply(lambda x: x.replace("tracks", "audio-features")).tolist()
-    data = read_all_song(songList, nameList)
-    # print(read_song("https://api.spotify.com/v1/audio-features/4TBBPZks71c60whhq0PgdP"))
+    # df = pd.read_csv(CSV)
+    # nameList = df["song"].tolist()
+    # songList = df["url"].apply(lambda x: x.replace("tracks", "audio-features")).tolist()
+    # data = read_all_song(songList, nameList)1XQnZTR0ER8y5fGO17uX1R 4fbvXwMTXPWaFyaMWUm9CR
+    print(read_song("https://api.spotify.com/v1/audio-analysis/4fbvXwMTXPWaFyaMWUm9CR"))
     # print(data)
-    newDf = merge_dataframe(df, data)
-    newDf.to_csv("TEST.csv", index=False, encoding="utf-8")
+    # newDf = merge_dataframe(df, data)
+    # newDf.to_csv("TEST.csv", index=False, encoding="utf-8")

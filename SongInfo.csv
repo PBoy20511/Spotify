@@ -261,14 +261,14 @@ Il Vicolo,https://api.spotify.com/v1/tracks/72hmCwuZXRBt5kRDqVWr8C,Melancholy In
 Bibo No Aozora,https://api.spotify.com/v1/tracks/2DPCymMTTu2SbGsPe7wPSU,Melancholy Instrumentals,0.37,0.174,4,-19.316,0,0.0377,0.95,0.0029,0.11,0.181,92.75,247493,4
 Morass,https://api.spotify.com/v1/tracks/1FXshXB0McPgzDJdWSHDZF,Melancholy Instrumentals,0.584,0.442,9,-10.994,0,0.0249,0.443,0.614,0.158,0.36,105.025,303507,4
 Water,https://api.spotify.com/v1/tracks/1Yq2mWeOaZMdg2oCaeBKx4,Melancholy Instrumentals,0.573,0.584,4,-6.574,1,0.047,0.315,1.19e-06,0.109,0.0805,114.841,177069,4
-Raðljóst,https://api.spotify.com/v1/tracks/0mVwwU0nxbi2C4rd35JlOr,Melancholy Instrumentals,0.5,0.303,4,-10.547,1,0.0443,0.701,0.0,0.186,0.154,119.717,258823,4
+Raeljost,https://api.spotify.com/v1/tracks/0mVwwU0nxbi2C4rd35JlOr,Melancholy Instrumentals,0.5,0.303,4,-10.547,1,0.0443,0.701,0.0,0.186,0.154,119.717,258823,4
 Guarda,https://api.spotify.com/v1/tracks/55pNaqKviMlFxtBbqWCMqH,Melancholy Instrumentals,0.798,0.175,0,-12.603,1,0.0594,0.603,0.0,0.625,0.633,93.994,181520,4
-Le marchand de sable est passé,https://api.spotify.com/v1/tracks/4ZHotLx5jX1MPDixEhEakI,Melancholy Instrumentals,0.554,0.226,3,-11.323,1,0.0281,0.891,0.0321,0.107,0.229,104.005,239880,4
+Le marchand de sable est passe,https://api.spotify.com/v1/tracks/4ZHotLx5jX1MPDixEhEakI,Melancholy Instrumentals,0.554,0.226,3,-11.323,1,0.0281,0.891,0.0321,0.107,0.229,104.005,239880,4
 A Sky Full of Flowers,https://api.spotify.com/v1/tracks/23IhmwOyEMpH7fPU8H6pZz,Melancholy Instrumentals,0.627,0.853,8,-5.789,1,0.074,0.136,0.0359,0.0786,0.437,134.842,231133,4
 Smoothness,https://api.spotify.com/v1/tracks/2Fn9MiptYoek7WhvXxoGdD,Melancholy Instrumentals,0.699,0.109,1,-16.97,1,0.0438,0.935,0.0,0.152,0.54,100.005,213666,4
 Redford (for Yia-Yia and Pappou),https://api.spotify.com/v1/tracks/6c96Nkxc8clVSlWNyvgzdD,Melancholy Instrumentals,0.469,0.315,7,-9.376,1,0.0348,0.525,0.0,0.113,0.233,122.287,243477,4
 Dawn,https://api.spotify.com/v1/tracks/1E0RGmeX5QjPeWTdd99mAh,Melancholy Instrumentals,0.535,0.261,8,-11.389,1,0.0965,0.913,0.000934,0.0923,0.561,158.948,154560,4
-Mémorie d’amour,https://api.spotify.com/v1/tracks/7rihrfv45QvlWXiQ6m3RZn,Melancholy Instrumentals,0.65,0.377,6,-12.626,1,0.0275,0.807,0.0487,0.11,0.288,129.028,195735,4
+Memorie d’amour,https://api.spotify.com/v1/tracks/7rihrfv45QvlWXiQ6m3RZn,Melancholy Instrumentals,0.65,0.377,6,-12.626,1,0.0275,0.807,0.0487,0.11,0.288,129.028,195735,4
 Cor Meum,https://api.spotify.com/v1/tracks/2kOWXD4YeNn1bGZljZlX93,Melancholy Instrumentals,0.509,0.661,8,-4.334,0,0.0433,0.273,4.89e-05,0.076,0.421,142.889,211140,3
 Esja,https://api.spotify.com/v1/tracks/0DNBrEt6XVU7qsuxahUw4K,Melancholy Instrumentals,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,214290,4
 listen before I go,https://api.spotify.com/v1/tracks/7IesNDpCf2aEM5vQj5Nnpk,Melancholy Instrumentals,0.528,0.228,8,-12.598,1,0.0286,0.803,0.0,0.16,0.125,146.07,195348,4
@@ -309,7 +309,7 @@ Eternal recall,https://api.spotify.com/v1/tracks/0SiAp3VUQSsB8deFwUTcxR,Melancho
 All That Was,https://api.spotify.com/v1/tracks/5bWEW1gcDRUGIW0pn4iNOl,Melancholy Instrumentals,0.63,0.386,7,-8.12,1,0.0931,0.812,0.0,0.104,0.213,74.058,265541,4
 Bergamo,https://api.spotify.com/v1/tracks/1bHXbuM7CqRCSn5Zg1knnZ,Melancholy Instrumentals,0.514,0.618,11,-4.585,0,0.0317,0.175,0.0,0.117,0.401,84.259,150333,4
 Acacia,https://api.spotify.com/v1/tracks/2n5zNyrLhhgRpiHJhsrKFw,Melancholy Instrumentals,0.469,0.0709,4,-20.716,1,0.0583,0.986,0.931,0.109,0.176,76.298,95352,5
-Début,https://api.spotify.com/v1/tracks/2g2Ggi6gqJiVD2knmkMEfM,Melancholy Instrumentals,0.504,0.33,9,-11.129,0,0.0525,0.764,0.0909,0.097,0.26,179.792,218667,4
+Debut,https://api.spotify.com/v1/tracks/2g2Ggi6gqJiVD2knmkMEfM,Melancholy Instrumentals,0.504,0.33,9,-11.129,0,0.0525,0.764,0.0909,0.097,0.26,179.792,218667,4
 Impasse des Bourdonnais,https://api.spotify.com/v1/tracks/53JV92TTWHIllhui4TkoU2,Melancholy Instrumentals,0.537,0.612,5,-4.777,1,0.051,0.0362,0.0,0.0926,0.308,92.178,179842,4
 Hush Now,https://api.spotify.com/v1/tracks/2sKfTPqN7GLhTybpl8AxFd,Melancholy Instrumentals,0.301,0.0634,11,-21.34,1,0.0343,0.989,0.911,0.0987,0.0965,73.556,204283,4
 Row - Score,https://api.spotify.com/v1/tracks/1MAeLzBF3xsg6fpRZztyCD,Melancholy Instrumentals,0.654,0.575,10,-8.766,1,0.0912,0.857,7.33e-06,0.117,0.195,104.001,198170,4
@@ -335,7 +335,7 @@ The Midnight Sun,https://api.spotify.com/v1/tracks/1WFBLFQgfXNCXAVjHu5WJp,Melanc
 Ponderosa pine,https://api.spotify.com/v1/tracks/40R3d7HWERJQEJ9XqJP1j5,Melancholy Instrumentals,0.685,0.508,0,-6.4,1,0.0987,0.193,0.0,0.139,0.315,99.063,217287,4
 Portmeirion,https://api.spotify.com/v1/tracks/2rNL1zppqgwWIzozc1UEq2,Melancholy Instrumentals,0.325,0.532,8,-7.208,1,0.0308,0.496,0.0,0.134,0.162,129.021,220840,4
 Lucida,https://api.spotify.com/v1/tracks/316nnoeN99STxwMJWNnH0a,Melancholy Instrumentals,0.782,0.674,6,-4.924,0,0.0335,0.533,0.00159,0.065,0.876,132.006,188440,4
-Toužebný,https://api.spotify.com/v1/tracks/3I36NaLQR6zCn5Y2stUg9H,Melancholy Instrumentals,0.569,0.491,1,-8.993,1,0.0305,0.374,0.0,0.0774,0.288,128.258,280773,4
+Tou?ebny,https://api.spotify.com/v1/tracks/3I36NaLQR6zCn5Y2stUg9H,Melancholy Instrumentals,0.569,0.491,1,-8.993,1,0.0305,0.374,0.0,0.0774,0.288,128.258,280773,4
 In your eyes,https://api.spotify.com/v1/tracks/7h6gaCHs8ziUTyT3viR9fY,Melancholy Instrumentals,0.794,0.793,11,-4.521,0,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290,4
 Wolfpack,https://api.spotify.com/v1/tracks/2uaSFwufXiS5OuuN4sqFGv,Melancholy Instrumentals,0.286,0.322,5,-9.288,1,0.0317,0.651,0.000335,0.0994,0.109,124.96,233893,4
 My love is gone,https://api.spotify.com/v1/tracks/0ck8NQMaS67mUqqvDWqvym,Melancholy Instrumentals,0.43,0.702,8,-4.67,1,0.0745,0.122,0.0,0.149,0.789,80.302,168301,4
@@ -367,7 +367,7 @@ Whole - demo,https://api.spotify.com/v1/tracks/2NsW7nEPsgmqUqEO7GJ83F,The Most B
 Take Me Apart,https://api.spotify.com/v1/tracks/7alvRZv61aCjEYyaqImXdy,The Most Beautiful Songs in the World,0.527,0.183,7,-13.843,0,0.0417,0.94,0.0411,0.122,0.287,131.127,310853,4
 Even If It's a Lie - Demo,https://api.spotify.com/v1/tracks/0MVeLASrPyBrC6hwwhIMwu,The Most Beautiful Songs in the World,0.445,0.357,7,-9.163,1,0.0445,0.153,0.0,0.356,0.159,147.062,186463,4
 Collar of Fur,https://api.spotify.com/v1/tracks/4W5gTdnD0ONxtRaKunsGlI,The Most Beautiful Songs in the World,0.768,0.864,11,-6.145,1,0.0324,0.101,0.0,0.162,0.891,110.008,173027,4
-Plus tôt,https://api.spotify.com/v1/tracks/5bdEGs3pW9BcClp7QBvPLF,The Most Beautiful Songs in the World,0.528,0.457,8,-7.348,1,0.0353,0.213,0.0,0.103,0.289,151.766,225773,4
+Plus tot,https://api.spotify.com/v1/tracks/5bdEGs3pW9BcClp7QBvPLF,The Most Beautiful Songs in the World,0.528,0.457,8,-7.348,1,0.0353,0.213,0.0,0.103,0.289,151.766,225773,4
 Circles,https://api.spotify.com/v1/tracks/5zsUUcqFU7CggQrBHnKbYV,The Most Beautiful Songs in the World,0.646,0.75,8,-8.249,1,0.0609,0.0233,0.0467,0.105,0.515,183.847,250427,4
 hollow crown,https://api.spotify.com/v1/tracks/2hHHUuvzZ2JLq45xwOxxsR,The Most Beautiful Songs in the World,0.484,0.417,4,-8.956,0,0.0326,0.832,0.000199,0.0723,0.156,117.895,209160,4
 Where You Are,https://api.spotify.com/v1/tracks/6COg2wVUUoEwKffB0bhKoG,The Most Beautiful Songs in the World,0.334,0.397,7,-7.993,1,0.0283,0.558,0.0781,0.126,0.0351,92.291,273107,4
@@ -572,13 +572,13 @@ Hand in Hand,https://api.spotify.com/v1/tracks/3nRbOaWAsIEIUFkFRlYVAM,Wake Up Ge
 Judith,https://api.spotify.com/v1/tracks/2HZvqPIKMNyKyP53u9JZ5O,Wake Up Gently,0.63,0.664,2,-8.046,1,0.0261,0.17,0.0713,0.105,0.443,131.993,196364,4
 supine,https://api.spotify.com/v1/tracks/7IMGJM5S0YYcQhvtdeJH14,Wake Up Gently,0.28,0.557,7,-7.915,1,0.0291,0.595,0.00445,0.23,0.324,107.179,213587,4
 Stories,https://api.spotify.com/v1/tracks/5tpfQ7Q2sbwJV8YsHaQI9p,Wake Up Gently,0.59,0.828,0,-6.28,1,0.0439,0.277,5.57e-06,0.0868,0.636,111.353,329680,4
-Morphée,https://api.spotify.com/v1/tracks/2ewd25cXIdZvLxbgGh5eYA,Wake Up Gently,0.625,0.432,2,-11.948,1,0.0283,0.633,0.00242,0.127,0.361,137.926,360933,4
+Morphee,https://api.spotify.com/v1/tracks/2ewd25cXIdZvLxbgGh5eYA,Wake Up Gently,0.625,0.432,2,-11.948,1,0.0283,0.633,0.00242,0.127,0.361,137.926,360933,4
 Wonder,https://api.spotify.com/v1/tracks/0LRjR9cx8rJDYTRIHq7rxp,Wake Up Gently,0.587,0.191,11,-14.187,1,0.0311,0.865,1.7e-06,0.11,0.292,139.554,159643,4
 Field trip,https://api.spotify.com/v1/tracks/4dtgMavxb4LCIJeTmQ5GUI,Wake Up Gently,0.454,0.827,11,-3.774,1,0.0398,0.328,0.0,0.226,0.32,94.767,237440,4
 Birdman,https://api.spotify.com/v1/tracks/6baoHqXdPuEnkmBUazVpoO,Wake Up Gently,0.752,0.489,7,-12.824,1,0.0626,0.789,0.188,0.111,0.899,79.983,204419,4
 That day,https://api.spotify.com/v1/tracks/6pvG7rCh9GQQTWUCkPVjDB,Wake Up Gently,0.721,0.195,4,-18.837,0,0.0418,0.776,0.00634,0.0553,0.264,109.986,144545,4
-Solêr,https://api.spotify.com/v1/tracks/3SsXxuvEu20CnDg7LUNFDY,Wake Up Gently,0.483,0.478,11,-5.814,1,0.0272,0.14,6.84e-06,0.0876,0.168,134.886,268667,4
-Kjæreste,https://api.spotify.com/v1/tracks/5b8dvbC8nIGMmagzqXbaTD,Wake Up Gently,0.494,0.637,5,-6.381,1,0.0333,0.669,0.0,0.0882,0.1,147.924,274693,4
+Soler,https://api.spotify.com/v1/tracks/3SsXxuvEu20CnDg7LUNFDY,Wake Up Gently,0.483,0.478,11,-5.814,1,0.0272,0.14,6.84e-06,0.0876,0.168,134.886,268667,4
+Kjareste,https://api.spotify.com/v1/tracks/5b8dvbC8nIGMmagzqXbaTD,Wake Up Gently,0.494,0.637,5,-6.381,1,0.0333,0.669,0.0,0.0882,0.1,147.924,274693,4
 Breakfast on the Balcony,https://api.spotify.com/v1/tracks/4o800k0L50O5mIUB69SPyV,Wake Up Gently,0.302,0.419,11,-11.285,1,0.0324,0.898,0.427,0.108,0.414,87.997,196933,4
 Lily's Cradle,https://api.spotify.com/v1/tracks/4UlarjdicLUPbdssOxWbYX,Wake Up Gently,0.802,0.183,8,-17.1,1,0.403,0.809,0.0,0.109,0.664,91.078,183338,4
 Love At First Sight,https://api.spotify.com/v1/tracks/51QraBOwt6c0CII6MYEcEs,Wake Up Gently,0.639,0.845,10,-3.333,1,0.0372,0.0528,0.0,0.336,0.871,119.485,233373,4
@@ -596,10 +596,10 @@ Dysphemism,https://api.spotify.com/v1/tracks/6jRABFqmpuAkcNCfg6D2bG,Wake Up Gent
 Cloudy Waltz,https://api.spotify.com/v1/tracks/5aMf0OItsp4ogKpcbrGrMP,Wake Up Gently,0.507,0.0249,3,-32.35,1,0.0409,0.995,0.931,0.0944,0.124,149.976,215333,4
 Filotimo,https://api.spotify.com/v1/tracks/0OH6fMcg4oou7KXzPOXMpi,Wake Up Gently,0.514,0.758,0,-6.864,1,0.074,0.00569,0.0,0.145,0.35,99.89,219547,4
 Grace,https://api.spotify.com/v1/tracks/3kCv0qog8yLPc5P262zMOi,Wake Up Gently,0.524,0.529,6,-6.435,1,0.0347,0.51,0.000257,0.0971,0.294,90.017,213560,4
-Den första snön,https://api.spotify.com/v1/tracks/64yTTGTPOZos3UEouvO6tp,Wake Up Gently,0.563,0.359,11,-11.007,1,0.0358,0.766,0.515,0.113,0.296,161.989,178678,4
+Den forsta snon,https://api.spotify.com/v1/tracks/64yTTGTPOZos3UEouvO6tp,Wake Up Gently,0.563,0.359,11,-11.007,1,0.0358,0.766,0.515,0.113,0.296,161.989,178678,4
 Dvale,https://api.spotify.com/v1/tracks/3bfXhbANHZ65viUlQMYtBR,Wake Up Gently,0.45,0.324,2,-11.234,1,0.037,0.71,0.000679,0.176,0.354,179.133,212027,4
 Sail,https://api.spotify.com/v1/tracks/5n5E3SxEh2Wt2WSIyW20Ly,Wake Up Gently,0.489,0.927,10,-6.298,0,0.17,0.455,0.00165,0.305,0.79,177.354,181787,4
-Jesień,https://api.spotify.com/v1/tracks/221DNbyZYq39AyEvrvrD0P,Wake Up Gently,0.151,0.0281,2,-27.972,0,0.0385,0.909,0.895,0.122,0.0536,78.815,116105,5
+Jesie?,https://api.spotify.com/v1/tracks/221DNbyZYq39AyEvrvrD0P,Wake Up Gently,0.151,0.0281,2,-27.972,0,0.0385,0.909,0.895,0.122,0.0536,78.815,116105,5
 "Senza tentazioni, senza onore",https://api.spotify.com/v1/tracks/0cS3uE3snbema8S5QRRboX,Wake Up Gently,0.42,0.433,7,-8.331,1,0.0396,0.198,4.31e-05,0.348,0.228,92.557,231913,5
 No More,https://api.spotify.com/v1/tracks/45cLs8T0cgOn6ZEd4ionkG,Wake Up Gently,0.71,0.799,6,-4.897,1,0.0328,0.22,0.000602,0.349,0.725,120.372,238267,4
 Becalm,https://api.spotify.com/v1/tracks/4N9UKWy0TLiwNEuzeynWiU,Wake Up Gently,0.731,0.521,3,-11.507,0,0.106,0.841,0.0,0.107,0.908,92.031,173467,4
@@ -662,19 +662,19 @@ A Peaceful Mind,https://api.spotify.com/v1/tracks/0KwkEHRzWiDO6z40BvIUTG,Wake Up
 Pollux,https://api.spotify.com/v1/tracks/3R0TQ0CK1KPse8hizZz476,Wake Up Gently,0.649,0.416,6,-7.285,1,0.0298,0.87,1.26e-05,0.108,0.138,127.907,240837,4
 La tendresse,https://api.spotify.com/v1/tracks/0JfP05rBqkrXgvGApClApn,Wake Up Gently,0.0849,0.118,0,-23.072,1,0.0559,0.993,0.993,0.108,0.0338,84.466,233629,5
 Reflection of the Unknown,https://api.spotify.com/v1/tracks/3ju7ioziNTBPy8TvY31Jqb,Wake Up Gently,0.553,0.0341,0,-22.62,1,0.0648,0.991,0.954,0.143,0.183,96.186,202357,3
-Pense à moi,https://api.spotify.com/v1/tracks/3u7NPAre9m4X9jUcHRr5eA,Wake Up Gently,0.422,0.254,6,-15.42,0,0.0299,0.548,0.831,0.0804,0.0391,169.866,243158,4
+Pense a moi,https://api.spotify.com/v1/tracks/3u7NPAre9m4X9jUcHRr5eA,Wake Up Gently,0.422,0.254,6,-15.42,0,0.0299,0.548,0.831,0.0804,0.0391,169.866,243158,4
 Asteroid,https://api.spotify.com/v1/tracks/5Enc5JAvGziRBT7YQqdgXO,Wake Up Gently,0.0674,0.382,0,-10.525,1,0.039,0.369,0.88,0.0895,0.0368,74.661,315973,4
 Aquatic,https://api.spotify.com/v1/tracks/2kz1DrWQsJl1k4lWDsPRsC,Wake Up Gently,0.419,0.731,1,-5.154,1,0.0568,0.0983,0.0,0.0907,0.394,101.65,198823,4
 "我可以不在乎的你 (電視劇《親愛的, 熱愛的》插曲)",https://api.spotify.com/v1/tracks/0lcydXw6rb39UXNAzcPvvp,上班傾聽,0.763,0.681,0,-7.291,1,0.0338,0.237,0.000363,0.0917,0.227,120.025,183995,4
 我睡不著,https://api.spotify.com/v1/tracks/7CmI7OlGPiSzqc5guO8IYp,上班傾聽,0.703,0.197,3,-13.852,1,0.0445,0.986,0.847,0.105,0.133,116.021,192454,4
 旅.課,https://api.spotify.com/v1/tracks/7AkyzTTAgRSFz6oONhGeyd,上班傾聽,0.305,0.462,0,-9.57,1,0.0338,0.475,0.122,0.0916,0.181,113.47,281213,4
 刪拾,https://api.spotify.com/v1/tracks/5hBXKzQiZlyad7vfxWLkNF,上班傾聽,0.748,0.521,7,-7.695,1,0.0279,0.37,0.0,0.118,0.759,88.049,254000,4
-大約在冬季 2019 (電影《大约在冬季》插曲),https://api.spotify.com/v1/tracks/57YuhE88vmVD1FWFZiUtuM,上班傾聽,0.376,0.211,4,-11.665,1,0.0364,0.797,0.0,0.196,0.228,94.7,144720,3
+大約在冬季 2019 (電影《大?在冬季》插曲),https://api.spotify.com/v1/tracks/57YuhE88vmVD1FWFZiUtuM,上班傾聽,0.376,0.211,4,-11.665,1,0.0364,0.797,0.0,0.196,0.228,94.7,144720,3
 三千三百公里外,https://api.spotify.com/v1/tracks/1wlxdbgP0xtftKSfSGs27t,上班傾聽,0.849,0.483,6,-7.114,0,0.291,0.443,0.000141,0.0786,0.282,101.015,165618,4
 我和被愛保持距離,https://api.spotify.com/v1/tracks/1Fl2sqsbulWOaKN4mykdFy,上班傾聽,0.65,0.306,9,-9.443,1,0.0393,0.57,7.07e-06,0.0707,0.605,118.068,180056,4
 長大以後,https://api.spotify.com/v1/tracks/1nJTFM2PexooIWMtz0ifwO,上班傾聽,0.267,0.672,4,-4.65,1,0.0373,0.0589,0.00026,0.102,0.143,170.152,242253,4
 窺探愛情 (網路劇《異域檔案之暹羅密碼》主題曲),https://api.spotify.com/v1/tracks/3Do757dsvTTjMc0TC6WVgy,上班傾聽,0.549,0.711,11,-5.025,1,0.187,0.0563,0.0,0.0607,0.32,187.932,197893,4
-从挥手开始,https://api.spotify.com/v1/tracks/0kOgvNsIzl2qUORFja2BkK,上班傾聽,0.71,0.563,7,-8.004,1,0.0403,0.125,0.0,0.196,0.427,101.931,173925,4
+??手?始,https://api.spotify.com/v1/tracks/0kOgvNsIzl2qUORFja2BkK,上班傾聽,0.71,0.563,7,-8.004,1,0.0403,0.125,0.0,0.196,0.427,101.931,173925,4
 句號,https://api.spotify.com/v1/tracks/1mgX7SIBVjBCqiLCMEl15W,上班傾聽,0.411,0.404,0,-10.165,1,0.0306,0.267,0.873,0.13,0.186,179.931,227845,4
 可能我不懂,https://api.spotify.com/v1/tracks/0eX7xONUxc0aRVI1TWjc6s,上班傾聽,0.321,0.58,1,-9.937,1,0.0341,0.0602,0.146,0.253,0.329,113.791,362280,4
 開放世界,https://api.spotify.com/v1/tracks/6qC4ss6b4yFeuupomaNbES,上班傾聽,0.601,0.724,6,-4.856,1,0.0486,0.0945,1.68e-06,0.12,0.508,102.061,207905,4
@@ -775,7 +775,7 @@ Something about LA,https://api.spotify.com/v1/tracks/615gGVIbH6KEwchWKcFlfs,上�
 掉進海的眼淚,https://api.spotify.com/v1/tracks/14E27fUMTIrhQtOxMWP0py,輕鬆聽覺,0.668,0.892,5,-3.001,0,0.0645,0.298,0.0,0.735,0.478,95.927,159011,4
 永生花,https://api.spotify.com/v1/tracks/0GnO5L1HgmcQlFaRbmdfVX,輕鬆聽覺,0.691,0.621,7,-4.262,0,0.0538,0.341,0.0,0.132,0.392,132.937,205893,4
 狂迷,https://api.spotify.com/v1/tracks/6XO1iXHKTLkk231Q3RfYkT,輕鬆聽覺,0.795,0.496,0,-5.883,1,0.0722,0.108,0.0,0.0645,0.874,94.01,183000,4
-別氹我,https://api.spotify.com/v1/tracks/20GS43c9bGvL7UEb4lJeme,輕鬆聽覺,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534,221307,4
+別?我,https://api.spotify.com/v1/tracks/20GS43c9bGvL7UEb4lJeme,輕鬆聽覺,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534,221307,4
 後來沒有你,https://api.spotify.com/v1/tracks/6CImTez90g714WjQxYmBJ2,輕鬆聽覺,0.774,0.75,11,-4.927,0,0.0413,0.0021,1.85e-05,0.0808,0.925,118.015,197987,4
 教我這麼愛下去,https://api.spotify.com/v1/tracks/0vKBUATOetUAnDJBlZ5KVK,輕鬆聽覺,0.408,0.0769,8,-23.389,1,0.0639,0.995,0.963,0.108,0.493,68.972,136000,4
 "陪著你走 - 劇集 ""不懂撒嬌的女人"" 插曲",https://api.spotify.com/v1/tracks/3HMesevL5DK01uEpHrn9IO,輕鬆聽覺,0.731,0.802,5,-4.763,1,0.0623,0.022,0.0,0.059,0.434,121.991,179016,4
@@ -897,7 +897,7 @@ Raining Day,https://api.spotify.com/v1/tracks/02a4oc5FkEx6eJLvBBvF3m,雨中旋�
 風和日麗 下雨了,https://api.spotify.com/v1/tracks/1HANH1bn2UhBnwllaPzJ2O,雨中旋律,0.681,0.624,0,-10.222,1,0.0258,0.13,1.4e-05,0.537,0.568,94.994,246751,4
 毛毛雨 Rainy Days,https://api.spotify.com/v1/tracks/3WxYFzZjMTwrsilbhjOf9P,雨中旋律,0.793,0.429,0,-7.819,1,0.0306,0.604,0.0,0.106,0.551,112.966,286807,4
 雨天練習,https://api.spotify.com/v1/tracks/2DOi724KaHE6Ymcxs1Skut,雨中旋律,0.55,0.0655,9,-21.791,1,0.0463,0.938,0.913,0.0852,0.255,79.576,157507,3
-雨还是不停地落下,https://api.spotify.com/v1/tracks/4dk1UbPeJZEYEqZzKqy98O,雨中旋律,0.191,0.108,6,-25.134,1,0.0583,0.82,0.896,0.112,0.0351,136.391,218092,3
+雨?是不停地落下,https://api.spotify.com/v1/tracks/4dk1UbPeJZEYEqZzKqy98O,雨中旋律,0.191,0.108,6,-25.134,1,0.0583,0.82,0.896,0.112,0.0351,136.391,218092,3
 如果雨之後,https://api.spotify.com/v1/tracks/6kabSi7XCHHGThNme6J2tL,雨中旋律,0.675,0.849,0,-3.841,1,0.0675,0.0938,0.0,0.121,0.681,100.111,238667,4
 大雨將至(《女醫明妃傳》電視劇主題曲),https://api.spotify.com/v1/tracks/4RT4R9nSSDSYj7lwMVqrDb,雨中旋律,0.215,0.0267,6,-19.785,1,0.0471,0.972,0.152,0.103,0.102,76.978,230107,4
 她在雨天想他,https://api.spotify.com/v1/tracks/2zXrVSkLy7GoW2RcpLHnkV,雨中旋律,0.149,0.209,0,-16.828,1,0.0446,0.869,0.775,0.0826,0.0596,74.035,158760,4
@@ -1116,7 +1116,7 @@ Returning,https://api.spotify.com/v1/tracks/4EYbngh7hMndlGfHrVid10,Young and Fre
 Cheers for the Tears,https://api.spotify.com/v1/tracks/1luf18dR160FyYqTnIAXfE,Young and Free,0.512,0.453,2,-8.991,1,0.0291,0.771,0.0914,0.065,0.236,124.05,258533,4
 Everybody Wants To Be Loved,https://api.spotify.com/v1/tracks/1dS91GGSKkkpIwKnEM4n8j,Young and Free,0.611,0.718,9,-8.479,1,0.0373,0.0331,0.431,0.113,0.255,109.988,297853,4
 Stacy,https://api.spotify.com/v1/tracks/1pyGo7knT3LE2I1FJIrwdX,Young and Free,0.187,0.0246,4,-33.493,1,0.0335,0.969,0.728,0.0889,0.0309,70.635,207386,4
-Get Stüpid,https://api.spotify.com/v1/tracks/4PMLEEYw4mblYsPlDSHKyu,Young and Free,0.672,0.752,4,-4.866,1,0.0843,0.0046,0.00047,0.056,0.429,116.945,211838,4
+Get Stupid,https://api.spotify.com/v1/tracks/4PMLEEYw4mblYsPlDSHKyu,Young and Free,0.672,0.752,4,-4.866,1,0.0843,0.0046,0.00047,0.056,0.429,116.945,211838,4
 Sometimes,https://api.spotify.com/v1/tracks/7MbZIh0vnrayVbdaXCOyo1,Young and Free,0.374,0.0883,11,-17.902,1,0.0362,0.978,0.453,0.105,0.202,112.166,271581,4
 Sunday Best,https://api.spotify.com/v1/tracks/1Cv1YLb4q0RzL6pybtaMLo,Young and Free,0.649,0.693,0,-5.558,1,0.0404,0.0586,5.01e-05,0.0403,0.33,118.075,219661,4
 eyeroll,https://api.spotify.com/v1/tracks/4PmIgAWDClzcK8e3wVPUaz,Young and Free,0.247,0.109,0,-23.537,1,0.0408,0.883,0.826,0.1,0.0909,66.538,258462,4
@@ -1322,7 +1322,7 @@ Walking Away,https://api.spotify.com/v1/tracks/5vhNn6ZfEXbFMw0qR6Grpn,Groove The
 Visions,https://api.spotify.com/v1/tracks/1z5nkHxC5a8z4dzTC4uZHN,Groove Theory,0.785,0.894,7,-5.982,0,0.0444,0.0883,2.23e-05,0.0376,0.919,99.999,319932,4
 Promised Land - Gerd Janson Remix,https://api.spotify.com/v1/tracks/43dAjx7BOWa0v76Hx9VeG1,Groove Theory,0.497,0.259,7,-9.782,1,0.033,0.879,0.0,0.102,0.338,140.117,200560,3
 This Is What You Need,https://api.spotify.com/v1/tracks/5cRwrKZVC2yslqMSbR8d6k,Groove Theory,0.608,0.496,0,-8.929,1,0.0309,0.558,1.15e-05,0.152,0.506,77.037,262080,4
-Move to the Front - Disco Mix [Dâm-Funk Re-Freak],https://api.spotify.com/v1/tracks/2CpMj0o33LCkL1ifAZuCxC,Groove Theory,0.407,0.434,9,-10.365,0,0.0609,0.273,0.00079,0.229,0.323,82.602,202320,1
+Move to the Front - Disco Mix [Dam-Funk Re-Freak],https://api.spotify.com/v1/tracks/2CpMj0o33LCkL1ifAZuCxC,Groove Theory,0.407,0.434,9,-10.365,0,0.0609,0.273,0.00079,0.229,0.323,82.602,202320,1
 My Man - Edit,https://api.spotify.com/v1/tracks/5HT2NWT4k4sZRwvnqNH6Po,Groove Theory,0.626,0.826,1,-6.185,0,0.161,0.429,5.31e-06,0.0875,0.734,159.997,227776,4
 Baby Baby,https://api.spotify.com/v1/tracks/2fMtXRKJDPtT8Xs4EJkBQh,Groove Theory,0.53,0.802,2,-6.494,1,0.0362,0.121,0.0,0.118,0.566,148.054,211413,3
 HEY!!!,https://api.spotify.com/v1/tracks/5wbEBkfsBRONApJlug6uDo,Groove Theory,0.335,0.154,2,-20.918,1,0.0417,0.964,0.918,0.106,0.186,133.951,179896,1
@@ -1533,7 +1533,7 @@ Hey Baby 你是我的,https://api.spotify.com/v1/tracks/3mKbJoAKI6zmpMhOZFCYXh,�
 說聲我愛你,https://api.spotify.com/v1/tracks/1mbnizscxGIq4DNePmLqUp,暖心情歌,0.619,0.198,10,-13.808,1,0.0344,0.976,0.00191,0.104,0.179,128.998,218160,4
 溫暖的房間,https://api.spotify.com/v1/tracks/511VKXO0A46Nuvn5ePw102,暖心情歌,0.596,0.379,5,-7.84,0,0.0274,0.778,6.1e-06,0.065,0.0928,113.971,308788,4
 藏不住的心跳(《我只喜歡你》影視劇片頭曲),https://api.spotify.com/v1/tracks/06lCOHWNcChv8OD1Eu3uu9,暖心情歌,0.523,0.438,0,-11.49,0,0.0356,0.867,0.0723,0.123,0.106,126.028,245240,4
-爱的拥抱,https://api.spotify.com/v1/tracks/0SHdwd2FVwDAg9cHNcgbVq,暖心情歌,0.27,0.195,1,-10.653,0,0.0797,0.931,9.73e-06,0.0949,0.171,46.489,188639,4
+?的?抱,https://api.spotify.com/v1/tracks/0SHdwd2FVwDAg9cHNcgbVq,暖心情歌,0.27,0.195,1,-10.653,0,0.0797,0.931,9.73e-06,0.0949,0.171,46.489,188639,4
 比想像更想你,https://api.spotify.com/v1/tracks/25D8IBbewkUXyKjPR2Jad6,暖心情歌,0.391,0.00241,7,-30.569,1,0.079,0.996,0.949,0.134,0.388,67.191,152231,4
 聽說的幸福,https://api.spotify.com/v1/tracks/4aOdVH68wzx0ldYrSKKz5R,暖心情歌,0.786,0.581,2,-9.401,1,0.0773,0.653,0.00144,0.0693,0.687,99.995,226223,4
 "我多喜歡你,你會知道 - 網劇《致我們單純的小美好》推廣曲",https://api.spotify.com/v1/tracks/221FBKC22DTc7XkPIaZYOl,暖心情歌,0.678,0.41,5,-7.962,1,0.0396,0.716,4.12e-05,0.0941,0.216,139.998,219627,4
@@ -1596,7 +1596,7 @@ No Fun,https://api.spotify.com/v1/tracks/6IGq3RtjQ7o25MvImbKzRQ,花草下午茶,
 As You Need,https://api.spotify.com/v1/tracks/1xYoq9LZiTmcRnZqXl7JhF,花草下午茶,0.299,0.369,5,-8.665,1,0.0317,0.112,0.000763,0.0892,0.232,138.885,260693,3
 Boyfriend,https://api.spotify.com/v1/tracks/7aq8uaeA9Uo1yu7HkiEGcG,花草下午茶,0.539,0.158,7,-14.41,1,0.036,0.98,0.377,0.0936,0.0775,88.991,270048,4
 Don't Wanna Know - Acoustic Version,https://api.spotify.com/v1/tracks/5l7gQEyycQWk10yVfXspVK,花草下午茶,0.73,0.728,9,-5.414,1,0.0457,0.198,0.0,0.271,0.775,100.009,167627,4
-Mali Lošinj,https://api.spotify.com/v1/tracks/0R89l2bGwUsCfpECnzfVvq,Feel Good piano,0.714,0.351,7,-10.145,1,0.0707,0.892,0.346,0.0717,0.243,129.981,160404,4
+Mali Lo?inj,https://api.spotify.com/v1/tracks/0R89l2bGwUsCfpECnzfVvq,Feel Good piano,0.714,0.351,7,-10.145,1,0.0707,0.892,0.346,0.0717,0.243,129.981,160404,4
 This Morning,https://api.spotify.com/v1/tracks/4222J8ROCEqgnnLqCC6Z7l,Feel Good piano,0.524,0.806,1,-3.447,0,0.406,0.197,0.0,0.101,0.45,115.172,224360,4
 Rain,https://api.spotify.com/v1/tracks/6S87FCVL1DnU3hL1V1wr0c,Feel Good piano,0.526,0.236,2,-13.59,0,0.0955,0.761,0.00387,0.126,0.299,103.401,214857,4
 Bright Blue Eyes,https://api.spotify.com/v1/tracks/5cGGpW0aE0VjPFTFjXSFgK,Feel Good piano,0.512,0.559,1,-5.498,1,0.0253,0.0843,0.0,0.0696,0.193,85.017,226330,4
@@ -1619,7 +1619,7 @@ Sentiment,https://api.spotify.com/v1/tracks/5cSBzbIH0X568Wk8cJ6Zbl,Feel Good pia
 Komorebi,https://api.spotify.com/v1/tracks/7wFCIItq3bxHsgRZVFvU0k,Feel Good piano,0.619,0.299,2,-7.744,1,0.0279,0.846,4.99e-05,0.243,0.31,115.405,251960,4
 Evening Gold,https://api.spotify.com/v1/tracks/1JcDeWGV1utcHtItIsVRqD,Feel Good piano,0.677,0.89,1,-4.448,0,0.0418,0.182,0.0,0.0826,0.764,97.012,216773,4
 Beginning,https://api.spotify.com/v1/tracks/0xfBAFqqp2bMbtRV2AIWRe,Feel Good piano,0.514,0.396,8,-7.705,0,0.0345,0.577,1.13e-06,0.117,0.199,131.996,254248,4
-어스름,https://api.spotify.com/v1/tracks/5z7sxlo3kf8eg8s3Zkb8dQ,Feel Good piano,0.72,0.655,5,-3.994,1,0.0248,0.383,0.0,0.156,0.468,104.977,210451,4
+???,https://api.spotify.com/v1/tracks/5z7sxlo3kf8eg8s3Zkb8dQ,Feel Good piano,0.72,0.655,5,-3.994,1,0.0248,0.383,0.0,0.156,0.468,104.977,210451,4
 Awake,https://api.spotify.com/v1/tracks/4gFnOcArAjAx0wqadjtzsq,Feel Good piano,0.377,0.267,2,-13.29,1,0.0354,0.941,0.000155,0.0881,0.345,152.207,211805,4
 If you ever change your mind,https://api.spotify.com/v1/tracks/4meLskE3DIQEBlBC18GS0Z,Feel Good piano,0.508,0.834,2,-6.205,1,0.0386,0.0183,0.0,0.0732,0.774,139.131,216053,4
 Childhood,https://api.spotify.com/v1/tracks/73VpGHucDuzwtFJiT59bEG,Feel Good piano,0.628,0.772,6,-3.261,0,0.028,0.53,0.0,0.374,0.757,120.098,271640,4
@@ -1639,7 +1639,7 @@ Western Brook Pond,https://api.spotify.com/v1/tracks/4bM2hrnaTYz5RPUvgYdkdq,Feel
 The Little Things That Light Us,https://api.spotify.com/v1/tracks/4kCeSbPimi2xqPuAhtAteB,Feel Good piano,0.665,0.673,0,-7.95,1,0.0493,0.259,7.62e-06,0.497,0.779,132.642,322549,4
 xanny,https://api.spotify.com/v1/tracks/36DlSMZRQjtY51boPFFIHx,Feel Good piano,0.751,0.393,9,-10.237,0,0.0504,0.874,0.0,0.106,0.729,129.891,249293,4
 The Coldest Day Of The Year,https://api.spotify.com/v1/tracks/4lR8tcuDZojNRoDTltUEhv,Feel Good piano,0.829,0.59,9,-8.166,1,0.0612,0.307,4.95e-06,0.0717,0.813,138.014,186087,4
-黒い汗,https://api.spotify.com/v1/tracks/3quI9fle27boUZXStQKtxy,Feel Good piano,0.414,0.161,7,-22.32,0,0.0318,0.883,0.000223,0.117,0.423,159.375,199493,4
+??汗,https://api.spotify.com/v1/tracks/3quI9fle27boUZXStQKtxy,Feel Good piano,0.414,0.161,7,-22.32,0,0.0318,0.883,0.000223,0.117,0.423,159.375,199493,4
 不晚 (電影深夜食堂主題曲),https://api.spotify.com/v1/tracks/7t40YRK7GQBf5pqtOzMcF6,返家傾聽,0.593,0.0942,1,-13.853,1,0.032,0.925,2.82e-05,0.344,0.162,135.958,186437,3
 別讓我走遠 (電視劇《我們與惡的距離》主題曲),https://api.spotify.com/v1/tracks/7fjGyTWookViY8LlvjqpVq,返家傾聽,0.72,0.599,9,-11.576,1,0.0627,0.162,0.018,0.0748,0.667,163.983,207805,4
 真的傻 (電影《一吻定情》追愛版主題曲),https://api.spotify.com/v1/tracks/7mCr6Rn5jx04Fisvts97Z3,返家傾聽,0.67,0.584,8,-8.325,1,0.034,0.439,0.00614,0.178,0.944,98.185,179227,4
@@ -1667,7 +1667,7 @@ The Coldest Day Of The Year,https://api.spotify.com/v1/tracks/4lR8tcuDZojNRoDTlt
 木偶人,https://api.spotify.com/v1/tracks/3unyDBfywMGjTFk0SqoEAW,返家傾聽,0.578,0.438,2,-11.483,0,0.0696,0.737,0.00877,0.097,0.79,89.083,225200,4
 愛情怎麼了嗎,https://api.spotify.com/v1/tracks/5ZaPc3ILOQT4Qc26AZe9od,返家傾聽,0.494,0.243,5,-9.083,0,0.0316,0.822,0.00225,0.147,0.0722,126.063,268854,4
 海的顏色 - 華視《最佳利益》插曲,https://api.spotify.com/v1/tracks/5SJgGgX2yEjr0kPu1gstYJ,返家傾聽,0.557,0.385,7,-7.835,1,0.0262,0.874,0.0,0.175,0.148,103.73,259733,4
-"最美的遇見 (電視劇《涼生,我們可不可以不憂傷》情感主题曲)",https://api.spotify.com/v1/tracks/5ANWaocvaBYZo2axRcCI4Y,返家傾聽,0.688,0.578,11,-7.547,0,0.36,0.0946,0.0,0.303,0.621,78.024,246973,4
+"最美的遇見 (電視劇《涼生,我們可不可以不憂傷》情感主?曲)",https://api.spotify.com/v1/tracks/5ANWaocvaBYZo2axRcCI4Y,返家傾聽,0.688,0.578,11,-7.547,0,0.36,0.0946,0.0,0.303,0.621,78.024,246973,4
 最好,https://api.spotify.com/v1/tracks/3LDN54rJIzKcPLVA1iSk0I,返家傾聽,0.719,0.552,2,-8.257,1,0.0285,0.166,0.0,0.082,0.763,132.82,181360,4
 我可以理解,https://api.spotify.com/v1/tracks/2wZOuLq0iiMD3kOg0FJUqA,返家傾聽,0.58,0.687,6,-5.4,1,0.106,0.229,0.0,0.109,0.187,76.014,240600,4
 不搖滾 (feat. 房東的貓),https://api.spotify.com/v1/tracks/2KZO634LWOlumo7bEJSh21,返家傾聽,0.697,0.831,1,-3.102,0,0.22,0.0853,5.68e-05,0.146,0.7,93.941,185986,4
@@ -1804,7 +1804,7 @@ Out of Time (feat. Eric Lumiere) - Sagan Remix,https://api.spotify.com/v1/tracks
 Little Bit of Love,https://api.spotify.com/v1/tracks/5ekLEoUNjTg9LAGmSFlG4h,Heart Beats,0.671,0.373,9,-18.064,1,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893,4
 I Miss You,https://api.spotify.com/v1/tracks/61bUwAYTGluUHZhhlUCA9f,Heart Beats,0.405,0.111,0,-11.879,1,0.0369,0.964,4.37e-05,0.0872,0.219,116.86,189475,4
 Wildest Dream,https://api.spotify.com/v1/tracks/0TgSQ4AWBShqMjYww6D8Yf,Heart Beats,0.37,0.785,1,-3.599,1,0.0335,0.352,0.000137,0.22,0.393,155.876,199778,4
-Tie Me Down (with Elley Duhé),https://api.spotify.com/v1/tracks/4QVS8YCpK71R4FsxSMCjhP,Heart Beats,0.297,0.114,10,-18.103,1,0.0502,0.969,0.139,0.112,0.153,78.855,296173,4
+Tie Me Down (with Elley Duhe),https://api.spotify.com/v1/tracks/4QVS8YCpK71R4FsxSMCjhP,Heart Beats,0.297,0.114,10,-18.103,1,0.0502,0.969,0.139,0.112,0.153,78.855,296173,4
 Where We Started,https://api.spotify.com/v1/tracks/5qnSeoDASVUFJXcVtG3SDr,Heart Beats,0.678,0.708,7,-7.257,1,0.0323,0.0618,0.00065,0.079,0.855,105.027,200333,4
 Runaway,https://api.spotify.com/v1/tracks/1CGuP5K5NdgKYeCCKtKdGB,Heart Beats,0.735,0.538,2,-4.544,1,0.0443,0.0728,0.0,0.17,0.657,99.96,192155,4
 Drown the Sky,https://api.spotify.com/v1/tracks/7yW9xPLtJ4Yh0zXKbS5T1H,Heart Beats,0.468,0.64,0,-5.862,1,0.0275,0.154,0.0,0.154,0.499,79.297,259933,4
@@ -1823,7 +1823,7 @@ Time Will Tell,https://api.spotify.com/v1/tracks/3o1pcCgVCI567l0V1sKVCz,Heart Be
 Only Love,https://api.spotify.com/v1/tracks/7DSBxP0sGTuEb249LMJSLY,Heart Beats,0.402,0.267,11,-10.299,1,0.0402,0.687,0.000212,0.097,0.255,112.572,402335,4
 Beating Hearts,https://api.spotify.com/v1/tracks/5iJHDCtqv2nO4v8i8nwbdh,Heart Beats,0.39,0.477,9,-6.945,0,0.17,0.861,0.0945,0.501,0.242,79.91,147475,4
 Thinking About You,https://api.spotify.com/v1/tracks/55AOUlhNVZ9U03w4cLgOu8,Heart Beats,0.596,0.261,7,-13.778,1,0.0335,0.967,0.00454,0.112,0.62,125.329,154573,4
-EASY (feat. Loé),https://api.spotify.com/v1/tracks/3RO5auKdVuqkAatbD9v9I9,Heart Beats,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,219947,4
+EASY (feat. Loe),https://api.spotify.com/v1/tracks/3RO5auKdVuqkAatbD9v9I9,Heart Beats,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,219947,4
 Anti-Everything - Jake Wolfe Remix,https://api.spotify.com/v1/tracks/3tQe6EipndJbSE8R23JAP0,Heart Beats,0.472,0.357,0,-10.09,1,0.0328,0.849,0.115,0.255,0.0532,121.89,168975,4
 Need You Now,https://api.spotify.com/v1/tracks/1Ic64CNrb7cZXrClDYDjpV,Heart Beats,0.516,0.166,6,-17.147,1,0.042,0.92,0.0232,0.0995,0.329,140.548,199840,4
 Not Like Them,https://api.spotify.com/v1/tracks/3YszuC9hP35EXZNAeAEiEq,Heart Beats,0.686,0.693,0,-6.245,0,0.131,0.329,0.0,0.136,0.699,124.206,197876,4
@@ -1890,7 +1890,7 @@ Old Things,https://api.spotify.com/v1/tracks/6FHK4wd49FqDcnqeO8Uv4s,Front Porch,
 Gold - Audiotree Live Version,https://api.spotify.com/v1/tracks/4uhEjM1u1Mh2Dxze7eseC4,Front Porch,0.492,0.189,6,-6.545,1,0.0397,0.95,0.0,0.266,0.259,127.716,227077,4
 Down by the Water,https://api.spotify.com/v1/tracks/4c5npp9gnwBHHyKnaqK2mD,Front Porch,0.612,0.619,2,-5.702,1,0.0437,0.602,0.0,0.0866,0.469,99.71,213960,4
 Love You True,https://api.spotify.com/v1/tracks/73EaA3mjNHgsIiFrm2hZzV,Front Porch,0.78,0.492,0,-6.783,1,0.291,0.261,3.18e-06,0.13,0.331,149.856,163200,4
-Émigré,https://api.spotify.com/v1/tracks/3t9dQLtZPB8dXRu6QrQYLS,Front Porch,0.826,0.751,1,-6.83,1,0.105,0.216,1.05e-05,0.088,0.399,118.965,158334,4
+Emigre,https://api.spotify.com/v1/tracks/3t9dQLtZPB8dXRu6QrQYLS,Front Porch,0.826,0.751,1,-6.83,1,0.105,0.216,1.05e-05,0.088,0.399,118.965,158334,4
 Julep,https://api.spotify.com/v1/tracks/5a4ZTEMp6wULHTEzJclKxt,Front Porch,0.64,0.746,8,-5.835,1,0.0681,0.331,0.0,0.0795,0.507,120.025,233333,4
 "A Day for the Hunter, A Day for the Prey",https://api.spotify.com/v1/tracks/2QBTMrdX3S7QBOslBKlSm6,Front Porch,0.391,0.142,7,-20.42,0,0.0339,0.994,0.887,0.111,0.655,111.491,134500,3
 I'll Be Here in the Morning,https://api.spotify.com/v1/tracks/1yNrkOsit2SAJMnPm5Hne5,Front Porch,0.702,0.913,11,-2.977,1,0.0374,0.0514,3.71e-06,0.166,0.735,137.982,237685,4
@@ -2025,11 +2025,11 @@ Paradise City - Vibes Edition,https://api.spotify.com/v1/tracks/0cOiSoDdmSUlMywk
 You Are Not Alone,https://api.spotify.com/v1/tracks/0vYfnmp9zRMBAwOcsG3Nd1,Bossa Nova Covers,0.383,0.0444,10,-25.15,0,0.0536,0.991,0.956,0.112,0.162,69.647,138810,3
 FlashDance... What a Feeling,https://api.spotify.com/v1/tracks/6qqwhdlZ78NRr8qFxLvqdT,Bossa Nova Covers,0.613,0.739,10,-6.478,1,0.0311,0.526,0.0,0.149,0.712,104.966,211453,4
 Like a Virgin,https://api.spotify.com/v1/tracks/4dOFBQKc4B0c0F9CAKSF8G,Bossa Nova Covers,0.799,0.301,7,-11.361,1,0.185,0.195,0.0,0.0816,0.511,100.026,186587,4
-You´ve Got A Friend (Bossa Version),https://api.spotify.com/v1/tracks/72d2qNpo39PRtwMWS9m2nq,Bossa Nova Covers,0.543,0.87,9,-6.514,1,0.0428,0.358,0.000939,0.792,0.754,100.804,230400,4
+You’ve Got A Friend (Bossa Version),https://api.spotify.com/v1/tracks/72d2qNpo39PRtwMWS9m2nq,Bossa Nova Covers,0.543,0.87,9,-6.514,1,0.0428,0.358,0.000939,0.792,0.754,100.804,230400,4
 Express Yourself,https://api.spotify.com/v1/tracks/74T8brxTqbG4Gk5qy1qIJA,Bossa Nova Covers,0.46,0.8,1,-3.584,1,0.05,0.289,6.16e-06,0.121,0.553,102.46,220396,4
 Rude,https://api.spotify.com/v1/tracks/2jz3QOQ5vZ37EeiGwFCiy6,Bossa Nova Covers,0.844,0.715,10,-6.427,0,0.303,0.429,0.0,0.0923,0.418,104.95,181109,4
 Smoke on the Water,https://api.spotify.com/v1/tracks/1fz735l9WBXIjO0Y9Rk2r6,Bossa Nova Covers,0.46,0.0607,1,-23.886,1,0.0646,0.993,0.957,0.107,0.154,66.502,131837,4
-Don´t Stop ´till You Get Enough,https://api.spotify.com/v1/tracks/4VrvrQe8C9QxUVxQoWKHFv,Bossa Nova Covers,0.49,0.715,7,-5.549,1,0.0476,0.386,0.0,0.311,0.866,130.726,145747,4
+Don’t Stop ’till You Get Enough,https://api.spotify.com/v1/tracks/4VrvrQe8C9QxUVxQoWKHFv,Bossa Nova Covers,0.49,0.715,7,-5.549,1,0.0476,0.386,0.0,0.311,0.866,130.726,145747,4
 "No Woman, No Cry",https://api.spotify.com/v1/tracks/501YlAetaUihOReeVjAJq1,Bossa Nova Covers,0.669,0.801,8,-5.445,1,0.136,0.268,0.0,0.0594,0.541,109.919,201072,4
 Hey Brother,https://api.spotify.com/v1/tracks/6KjeFfePSDrlvsOb1aXqwy,Bossa Nova Covers,0.776,0.763,5,-8.124,1,0.0535,0.182,0.0065,0.077,0.82,128.433,280000,4
 Castle on the Hill,https://api.spotify.com/v1/tracks/40GkVbpiMmiqGTzmY7DVPr,Bossa Nova Covers,0.888,0.525,1,-5.665,1,0.305,0.029,5.68e-06,0.137,0.243,133.983,143792,4
@@ -2070,7 +2070,7 @@ Hummingbird,https://api.spotify.com/v1/tracks/6VJESmw3puw9eFpmglP2dM,Happy Folk,
 Sedona,https://api.spotify.com/v1/tracks/2kG5litgxXvx6ZRgwO1v7W,Happy Folk,0.447,0.508,7,-6.895,0,0.0354,0.094,0.00877,0.0948,0.344,112.963,249413,3
 Amadeus,https://api.spotify.com/v1/tracks/4F9jpNQDKRFoyM4Ebpni6S,Happy Folk,0.664,0.316,5,-10.345,1,0.519,0.298,2.03e-06,0.0812,0.541,92.875,170640,4
 Can't Cheat Death,https://api.spotify.com/v1/tracks/3ocLv1zQYgIT09uIWjmTSz,Happy Folk,0.714,0.522,7,-9.773,1,0.0283,0.455,1.02e-05,0.0967,0.69,121.312,168000,4
-Dearly Departed (feat. Esmé Patterson),https://api.spotify.com/v1/tracks/0ewrI06EIDMGXvgJxuyF3U,Happy Folk,0.381,0.432,5,-7.496,1,0.163,0.119,0.0,0.087,0.342,74.247,250663,5
+Dearly Departed (feat. Esme Patterson),https://api.spotify.com/v1/tracks/0ewrI06EIDMGXvgJxuyF3U,Happy Folk,0.381,0.432,5,-7.496,1,0.163,0.119,0.0,0.087,0.342,74.247,250663,5
 Someone New,https://api.spotify.com/v1/tracks/0efT4YKQLQx2YHbp6vgRX8,Happy Folk,0.583,0.898,7,-2.954,1,0.0336,0.203,2.66e-06,0.38,0.802,132.032,192707,4
 lovers’ carvings,https://api.spotify.com/v1/tracks/3JeT6Xcv6MlEHHylk8SKQ1,Happy Folk,0.754,0.514,7,-7.945,0,0.0419,0.657,0.436,0.106,0.149,103.998,244742,4
 Shape of Love,https://api.spotify.com/v1/tracks/3eeIdvZqXaffY0yVRgbGfQ,Happy Folk,0.938,0.638,8,-4.713,1,0.189,0.0167,0.0,0.111,0.313,97.075,158332,4
@@ -2204,7 +2204,7 @@ I Don't Care (with Justin Bieber),https://api.spotify.com/v1/tracks/3HVWdVOQ0ZA4
 Party In The U.S.A.,https://api.spotify.com/v1/tracks/3E7dfMvvCLUddWissuqMwr,Songs to sing in the shower,0.522,0.899,0,-4.144,1,0.041,0.00552,0.0,0.163,0.409,145.042,282880,4
 I Want It That Way,https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6,Songs to sing in the shower,0.761,0.392,4,-13.669,0,0.0357,0.797,0.0266,0.146,0.653,144.98,264092,4
 I Wanna Dance with Somebody (Who Loves Me),https://api.spotify.com/v1/tracks/2tUBqZG2AbRi7Q0BIrVrEj,Songs to sing in the shower,0.5,0.681,0,-9.556,1,0.0672,0.114,4.01e-05,0.139,0.745,119.46,263333,4
-Señorita,https://api.spotify.com/v1/tracks/0TK2YIli7K1leLovkQiNik,Songs to sing in the shower,0.557,0.378,5,-10.964,0,0.0278,0.645,0.151,0.109,0.194,84.904,163765,4
+Senorita,https://api.spotify.com/v1/tracks/0TK2YIli7K1leLovkQiNik,Songs to sing in the shower,0.557,0.378,5,-10.964,0,0.0278,0.645,0.151,0.109,0.194,84.904,163765,4
 Don't Go Breaking My Heart,https://api.spotify.com/v1/tracks/5nPdMALTEd7HOjn16oNf2X,Songs to sing in the shower,0.389,0.816,11,-4.548,1,0.0635,0.0132,0.000468,0.112,0.352,126.578,296826,4
 9 To 5,https://api.spotify.com/v1/tracks/5UWYJWoVXRpaLuzzXmHqg8,Songs to sing in the shower,0.65,0.507,0,-10.435,1,0.0292,0.898,0.0281,0.171,0.805,135.397,211160,4
 "Hey, Soul Sister",https://api.spotify.com/v1/tracks/0KpfYajJVVGgQ32Dby7e9i,Songs to sing in the shower,0.639,0.923,7,-5.708,1,0.032,0.0674,0.0,0.0879,0.761,97.874,175347,4
@@ -2448,7 +2448,7 @@ Freaking Me Out,https://api.spotify.com/v1/tracks/7uYIX9O9DY6l1D3HiwHR1J,"Young,
 What Am I,https://api.spotify.com/v1/tracks/1HimGOB6BjOaCQYMIF1xtU,"Young, Wild and Free",0.511,0.815,7,-3.14,1,0.144,0.0491,0.0,0.0826,0.586,154.514,215307,4
 No Sleep (feat. Bonn),https://api.spotify.com/v1/tracks/1ahVFh0ViDZr8LvkEVlq3B,"Young, Wild and Free",0.631,0.626,7,-8.995,1,0.0292,0.0138,0.0,0.122,0.496,114.192,215027,4
 Younger,https://api.spotify.com/v1/tracks/4D7ERaKgv8NAeck8RzUtRz,"Young, Wild and Free",0.487,0.196,4,-11.323,1,0.0352,0.765,0.00781,0.115,0.375,84.477,195493,4
-"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",https://api.spotify.com/v1/tracks/3y3brCCecHC3Db18aIOnny,"Young, Wild and Free",0.615,0.22,2,-19.034,0,0.0397,0.898,3.44e-05,0.132,0.705,127.315,183227,4
+"Carry On (from the Original Motion Picture ""POKEMON Detective Pikachu"")",https://api.spotify.com/v1/tracks/3y3brCCecHC3Db18aIOnny,"Young, Wild and Free",0.615,0.22,2,-19.034,0,0.0397,0.898,3.44e-05,0.132,0.705,127.315,183227,4
 My Heart,https://api.spotify.com/v1/tracks/1zVfFnkHv8ubJRXT30d4T3,"Young, Wild and Free",0.69,0.37,2,-12.132,1,0.0381,0.857,6.43e-06,0.173,0.427,124.028,283693,4
 Wanted,https://api.spotify.com/v1/tracks/6hLkeOMrhZ2CMLBp2of576,"Young, Wild and Free",0.626,0.247,8,-14.287,1,0.026,0.309,0.0,0.0757,0.43,94.072,175373,3
 Easier – Remix (with Charlie Puth),https://api.spotify.com/v1/tracks/5iTaLzgPI5jRMVAxITcZwT,"Young, Wild and Free",0.355,0.82,3,-4.45,1,0.103,0.664,0.0,0.086,0.471,95.658,189186,4
@@ -2617,7 +2617,7 @@ The Bones - with Hozier,https://api.spotify.com/v1/tracks/1yTTMcUhL7rtz08Dsgb7Qb
 Medicine,https://api.spotify.com/v1/tracks/4GV5sSkmlS3BQutuSIqZkV,Wake Up Happy,0.558,0.0576,1,-21.296,0,0.0396,0.993,0.947,0.106,0.222,72.189,126545,4
 Don’t Feel Like Crying,https://api.spotify.com/v1/tracks/1oLSje4Ot5qRUq8FqYeXOl,Wake Up Happy,0.667,0.722,8,-4.997,1,0.0331,0.00433,0.0,0.252,0.413,111.975,251403,4
 All Night Long (All Night) - Recorded at Spotify Studios Stockholm,https://api.spotify.com/v1/tracks/5LKNumPGm1bEyVroDE4rcZ,Wake Up Happy,0.463,0.462,1,-7.94,0,0.0272,0.367,0.0012,0.356,0.189,131.273,280187,4
-Closer To You (feat. Sinéad Harnett),https://api.spotify.com/v1/tracks/34awK00Tgp6KW6jgxiY5mR,Wake Up Happy,0.774,0.747,1,-3.908,0,0.082,0.0241,6.11e-06,0.342,0.833,119.964,168125,4
+Closer To You (feat. Sinead Harnett),https://api.spotify.com/v1/tracks/34awK00Tgp6KW6jgxiY5mR,Wake Up Happy,0.774,0.747,1,-3.908,0,0.082,0.0241,6.11e-06,0.342,0.833,119.964,168125,4
 Happy Kids,https://api.spotify.com/v1/tracks/3nVJ4tGeLFR6HUiz3e7qAe,Wake Up Happy,0.518,0.0535,6,-21.312,1,0.0515,0.996,0.935,0.109,0.248,76.198,171000,4
 Keep You Mine,https://api.spotify.com/v1/tracks/0OJN2A3Qyvd7pwSF0AIteC,Wake Up Happy,0.537,0.837,0,-4.477,1,0.039,0.19,0.0,0.348,0.533,90.083,206120,4
 Your Side Of The Bed,https://api.spotify.com/v1/tracks/4foROzWuWa3fED6jc6BjK1,Wake Up Happy,0.709,0.562,5,-4.864,1,0.0724,0.0449,0.0,0.217,0.386,125.965,205267,4
@@ -2707,7 +2707,7 @@ Love Me Less (feat. Quinn XCII),https://api.spotify.com/v1/tracks/2tOOcDDYkh0PSj
 Whenever (feat. Conor Maynard),https://api.spotify.com/v1/tracks/3DGar7krWlmrXRFHBcQF6z,Happy Hits,0.655,0.647,1,-9.465,1,0.0903,0.19,0.00877,0.0412,0.931,80.077,280760,4
 Forever Young,https://api.spotify.com/v1/tracks/0o9bHFc8Lt5tZFvTjNZTNf,Happy Hits,0.475,0.4,10,-13.077,0,0.0672,0.622,0.00052,0.159,0.753,84.708,186480,4
 Crime,https://api.spotify.com/v1/tracks/05OCY605lOXP7koHNBMPc2,Happy Hits,0.64,0.6,7,-6.341,1,0.0948,0.075,7.9e-05,0.0752,0.627,175.832,297800,4
-Bruised Not Broken (feat. MNEK & Kiana Ledé),https://api.spotify.com/v1/tracks/2ak79ho44RiDi9DFrqYgfq,Happy Hits,0.377,0.0239,0,-30.245,1,0.0403,0.99,0.882,0.0998,0.0629,119.263,160067,4
+Bruised Not Broken (feat. MNEK & Kiana Lede),https://api.spotify.com/v1/tracks/2ak79ho44RiDi9DFrqYgfq,Happy Hits,0.377,0.0239,0,-30.245,1,0.0403,0.99,0.882,0.0998,0.0629,119.263,160067,4
 Masterpiece (with Felix Jaehn),https://api.spotify.com/v1/tracks/2CLB3YjyYcuWVckL9pCm1i,Happy Hits,0.616,0.196,0,-12.266,1,0.0553,0.851,0.0,0.158,0.303,121.772,211440,4
 I Could Get Used To This,https://api.spotify.com/v1/tracks/5BDmCfpzQeXT4AuxyO5ATs,Happy Hits,0.641,0.637,7,-10.92,1,0.0262,0.0495,0.000138,0.267,0.793,147.502,171067,4
 No Drama (feat. Craig David),https://api.spotify.com/v1/tracks/6IIOcnq93QAaKeRX1cs16v,Happy Hits,0.629,0.586,1,-8.562,1,0.0269,0.617,0.0803,0.129,0.526,102.995,253848,5
@@ -2808,9 +2808,9 @@ When In Rome,https://api.spotify.com/v1/tracks/5Mp3qPXMfH5Dr3ZkBm7Ymj,Happy Beat
 Found Me (feat. Maria Hazell),https://api.spotify.com/v1/tracks/7ubEV4AIzzuaGKnl23GhjR,Happy Beats,0.742,0.619,7,-8.693,1,0.197,0.0364,0.000147,0.444,0.516,121.445,195013,4
 Found Love (feat. Lovespeake),https://api.spotify.com/v1/tracks/7EHCt2jdVwHp557sfMPosf,Happy Beats,0.542,0.155,2,-12.924,0,0.0298,0.988,0.0155,0.108,0.247,78.088,183768,4
 Summer Air (feat. Trevor Guthrie),https://api.spotify.com/v1/tracks/3eW2EDwNRAiQKkgom96dUa,Happy Beats,0.419,0.113,2,-15.591,1,0.0458,0.943,0.000654,0.139,0.534,160.121,288731,3
-One Touch (with ‪Jess Glynne),https://api.spotify.com/v1/tracks/7MRghgE1RnubxFJBfUEPwt,Happy Beats,0.732,0.856,11,-2.2,0,0.0929,0.0828,0.0,0.323,0.771,145.034,177670,4
+One Touch (with ?Jess Glynne),https://api.spotify.com/v1/tracks/7MRghgE1RnubxFJBfUEPwt,Happy Beats,0.732,0.856,11,-2.2,0,0.0929,0.0828,0.0,0.323,0.771,145.034,177670,4
 All The Lies - Toby Romeo Remix / Radio Edit,https://api.spotify.com/v1/tracks/1YSwQvw1NrEPfA0j1iY8eV,Happy Beats,0.552,0.126,11,-18.014,1,0.0306,0.956,0.0153,0.109,0.439,92.441,242000,4
-Moving Mountains - GATTÜSO Remix,https://api.spotify.com/v1/tracks/3qBnc1nWty6LjPIjXuAigw,Happy Beats,0.866,0.53,0,-6.347,0,0.0495,0.517,0.00159,0.0946,0.203,104.952,197973,4
+Moving Mountains - GATTUSO Remix,https://api.spotify.com/v1/tracks/3qBnc1nWty6LjPIjXuAigw,Happy Beats,0.866,0.53,0,-6.347,0,0.0495,0.517,0.00159,0.0946,0.203,104.952,197973,4
 I'll Live On,https://api.spotify.com/v1/tracks/4g8k9cKU6G7Bke5PQOvpg4,Happy Beats,0.834,0.531,1,-5.708,1,0.36,0.0662,0.0,0.136,0.415,150.126,224119,4
 A Place For Us (feat. Ynnox),https://api.spotify.com/v1/tracks/7DCdlReHytM62WN1KBktrS,Happy Beats,0.734,0.693,0,-6.474,1,0.0361,0.0878,0.0,0.341,0.55,110.021,154024,4
 I'm With You (feat. Hannah Jane Lewis) - DAZZ Remix,https://api.spotify.com/v1/tracks/4Q88Jn7W1Cjr8CJ4oZo1Hi,Happy Beats,0.408,0.271,2,-11.92,1,0.0314,0.788,0.436,0.112,0.313,96.078,231409,4
@@ -3363,7 +3363,7 @@ On Stream,https://api.spotify.com/v1/tracks/6nqhMMxnXbb2kMuh2cNd2L,Organic Exper
 Crystal Silence,https://api.spotify.com/v1/tracks/0lgsoJEYulyJxjNEKSCBg9,Organic Experimental,0.424,0.153,9,-15.223,1,0.0391,0.947,0.000132,0.118,0.301,139.426,251989,4
 Lyskaster,https://api.spotify.com/v1/tracks/4oLF2w04mPazWAkHt8PPaD,Organic Experimental,0.869,0.816,4,-9.814,1,0.129,0.000434,0.693,0.11,0.645,126.007,239119,4
 Indiana Indian,https://api.spotify.com/v1/tracks/1N0iJOCwgODoJoluvKmThg,Organic Experimental,0.594,0.41,7,-7.756,1,0.0286,0.189,8.99e-06,0.117,0.182,119.925,238586,4
-Déjà La Nuit,https://api.spotify.com/v1/tracks/4W1Qhn3czQYAwZk9Um6KBd,Organic Experimental,0.831,0.489,11,-5.549,0,0.0577,0.00238,0.838,0.054,0.414,118.013,325630,3
+Deja La Nuit,https://api.spotify.com/v1/tracks/4W1Qhn3czQYAwZk9Um6KBd,Organic Experimental,0.831,0.489,11,-5.549,0,0.0577,0.00238,0.838,0.054,0.414,118.013,325630,3
 A Tale Begun,https://api.spotify.com/v1/tracks/16X8iiFGnwZrwendrYuwNj,Organic Experimental,0.527,0.577,4,-8.112,1,0.0487,0.184,0.0,0.111,0.291,79.95,231533,4
 Kings,https://api.spotify.com/v1/tracks/6IVXZMJOlEIvcg0rmySMZl,Organic Experimental,0.613,0.371,1,-8.434,1,0.0272,0.817,0.0,0.106,0.286,73.956,278000,4
 La Bella,https://api.spotify.com/v1/tracks/2jvyMcn5gcqkrDyRVN9Spx,Organic Experimental,0.59,0.32,9,-15.515,1,0.0417,0.805,0.0,0.113,0.331,130.045,256856,4
@@ -3378,13 +3378,13 @@ Dream,https://api.spotify.com/v1/tracks/04O6YleCILNVtC81VlfKmB,Organic Experimen
 "Visions fugitives, Op.22: 7. Pittoresco",https://api.spotify.com/v1/tracks/0BXNJSy1GrlkZGMLjhO9f1,Organic Experimental,0.53,0.525,0,-8.319,1,0.0585,0.228,2.2e-06,0.0812,0.225,134.236,178958,4
 Concerto For Violoncello And Strings: II. (Longing),https://api.spotify.com/v1/tracks/4lcsjdsF25XBmr6rdckHUM,Organic Experimental,0.611,0.476,6,-11.267,1,0.0298,0.791,0.000282,0.107,0.483,138.92,173094,4
 Seven Songs: 1. Semplice,https://api.spotify.com/v1/tracks/1C0uFWLcV7H8FHwQl3SIfB,Organic Experimental,0.549,0.581,0,-7.065,1,0.0311,0.218,7.68e-05,0.0904,0.539,159.94,284618,4
-L'éternel retour,https://api.spotify.com/v1/tracks/5oN3YgHc4ihBhR4N7zZFXs,Organic Experimental,0.604,0.44,9,-10.312,1,0.0451,0.83,0.0,0.128,0.374,129.876,251077,4
+L'eternel retour,https://api.spotify.com/v1/tracks/5oN3YgHc4ihBhR4N7zZFXs,Organic Experimental,0.604,0.44,9,-10.312,1,0.0451,0.83,0.0,0.128,0.374,129.876,251077,4
 Bagatellen: VI,https://api.spotify.com/v1/tracks/7B6cCxfLqLhAEsReBkFnuc,Organic Experimental,0.634,0.726,7,-5.086,1,0.133,0.111,0.0,0.111,0.809,155.161,206707,4
 At Home,https://api.spotify.com/v1/tracks/7D5mUwTGTlQyjDch2E2tnH,Organic Experimental,0.655,0.686,7,-5.701,1,0.028,0.371,1.13e-06,0.113,0.544,112.974,186109,4
 Euripides Trojan Women: Hecuba's Theme II - Live,https://api.spotify.com/v1/tracks/0fP9iIfueQbvvEpALJC5vy,Organic Experimental,0.773,0.804,9,-6.408,1,0.102,0.0243,1.3e-05,0.347,0.65,124.034,173258,4
 Ellis Island,https://api.spotify.com/v1/tracks/58afZNIprMtR5n11KpZkBp,Organic Experimental,0.474,0.217,10,-13.271,1,0.0891,0.893,5.46e-05,0.104,0.237,102.274,285645,4
 10th Of February,https://api.spotify.com/v1/tracks/65HFu1PqB4qeQipmBBPcmU,Organic Experimental,0.716,0.152,2,-16.506,1,0.0379,0.867,0.0,0.0754,0.216,101.015,211601,4
-Játékok / 5.: 9. Aus der Ferne,https://api.spotify.com/v1/tracks/6HldKUd7Kyc72rHnFxo9zZ,Organic Experimental,0.558,0.384,1,-7.285,1,0.0294,0.844,0.0,0.0861,0.567,144.109,208923,4
+Jatekok / 5.: 9. Aus der Ferne,https://api.spotify.com/v1/tracks/6HldKUd7Kyc72rHnFxo9zZ,Organic Experimental,0.558,0.384,1,-7.285,1,0.0294,0.844,0.0,0.0861,0.567,144.109,208923,4
 Titles - Run,https://api.spotify.com/v1/tracks/2Bo6njn2naqqgWfDBQVtXp,Organic Experimental,0.504,0.898,4,-6.457,1,0.173,0.138,0.0,0.149,0.391,181.998,246827,4
 Close (For Comfort),https://api.spotify.com/v1/tracks/1IG6v1Rh2YRTwvouEqy0hP,Organic Experimental,0.749,0.699,5,-7.193,0,0.0469,0.0694,0.0,0.124,0.641,123.965,211360,4
 How My Heart Sings,https://api.spotify.com/v1/tracks/3QVtUtfPKR0pMQu3vZbZya,Organic Experimental,0.465,0.756,8,-4.114,1,0.0314,0.308,0.0461,0.0818,0.128,95.035,312000,4
@@ -3684,7 +3684,7 @@ Sleep Navigator,https://api.spotify.com/v1/tracks/1fDqcrUoJvUS3c1TCDXU0a,Dreamy 
 Pondering Life,https://api.spotify.com/v1/tracks/7BM5WFlytFqJ8j0FewyhA7,Dreamy Vibes,0.335,0.326,0,-7.223,1,0.0331,0.948,0.0,0.0619,0.326,169.267,318499,4
 432hz Sunset Breeze,https://api.spotify.com/v1/tracks/7uhNZw784V8ovuGRLB16Xg,Dreamy Vibes,0.406,0.461,11,-8.491,1,0.0295,0.782,0.0,0.174,0.168,149.947,196383,4
 Fell Through Mirrors,https://api.spotify.com/v1/tracks/2b4Dh5DQJxviLQHCEgTzJf,Dreamy Vibes,0.46,0.825,0,-5.203,1,0.031,0.0695,1.52e-05,0.337,0.443,100.137,228587,4
-Bûche Creuse,https://api.spotify.com/v1/tracks/2X6yLNxl3XsH0YZRQ4B1w2,Dreamy Vibes,0.636,0.63,0,-6.396,1,0.0346,0.0796,0.0,0.13,0.454,104.845,184020,4
+Buche Creuse,https://api.spotify.com/v1/tracks/2X6yLNxl3XsH0YZRQ4B1w2,Dreamy Vibes,0.636,0.63,0,-6.396,1,0.0346,0.0796,0.0,0.13,0.454,104.845,184020,4
 Aarshedh,https://api.spotify.com/v1/tracks/5Y6o3Nq4bKwMovfImGrgpP,Dreamy Vibes,0.457,0.428,4,-8.132,1,0.0268,0.586,0.0,0.0923,0.229,82.859,298067,4
 Newborn Soul,https://api.spotify.com/v1/tracks/61I4iLWIWmmx7knqM6f5HL,Dreamy Vibes,0.552,0.746,7,-5.991,1,0.0268,0.122,0.0,0.172,0.569,164.084,228659,4
 432hz Sea of Fog,https://api.spotify.com/v1/tracks/6sV4fBPsUMAiEIygFXViK1,Dreamy Vibes,0.484,0.869,9,-3.778,1,0.0322,0.327,0.000132,0.112,0.757,125.63,195160,3
@@ -3808,7 +3808,7 @@ Malaika,https://api.spotify.com/v1/tracks/5ZMoyCcee60Omi3bNklKvQ,戀戀咖啡館
 Beauty And The Beast,https://api.spotify.com/v1/tracks/2vm6Sqkp1B2cMFIqZH9Ru6,戀戀咖啡館,0.461,0.0621,0,-19.631,1,0.0749,0.988,0.94,0.13,0.233,77.895,197555,4
 Viva La Vida - Bossa Version,https://api.spotify.com/v1/tracks/6GuAb6sS3v0KWNsdvf2kX5,戀戀咖啡館,0.78,0.32,1,-11.0,0,0.0403,0.372,1.72e-05,0.104,0.274,109.98,183273,4
 These Things,https://api.spotify.com/v1/tracks/5zQ9xy9pKSDTbS7va0NcTm,戀戀咖啡館,0.759,0.605,7,-7.737,1,0.0433,0.156,0.0,0.694,0.64,121.049,158900,4
-Un jour de différence,https://api.spotify.com/v1/tracks/628WzzZejEljPNLB2an42K,戀戀咖啡館,0.56,0.404,8,-9.067,1,0.0288,0.877,0.00948,0.0932,0.356,103.477,228960,4
+Un jour de difference,https://api.spotify.com/v1/tracks/628WzzZejEljPNLB2an42K,戀戀咖啡館,0.56,0.404,8,-9.067,1,0.0288,0.877,0.00948,0.0932,0.356,103.477,228960,4
 Smoke Gets In Your Eyes (Bossa Version),https://api.spotify.com/v1/tracks/4NwKZsV1GTIztiwQ2GmuFq,戀戀咖啡館,0.336,0.464,0,-8.122,0,0.0427,0.56,0.0,0.126,0.0839,147.988,286468,3
 Sand In My Shoes,https://api.spotify.com/v1/tracks/55ZUaE0y9hL4SLrRMOUSlw,戀戀咖啡館,0.494,0.54,4,-9.415,0,0.0362,0.61,0.0049,0.0889,0.429,150.02,173126,4
 Till There Was You,https://api.spotify.com/v1/tracks/0SAOda92hEoiXU6yC0KeJ3,戀戀咖啡館,0.54,0.793,5,-4.379,1,0.0493,0.0744,0.0,0.354,0.399,112.219,201199,4
@@ -3825,9 +3825,9 @@ Fly Me To The Moon,https://api.spotify.com/v1/tracks/1srLsaKmxhHpmsKlffB2lr,戀�
 Le Poisson Des Mers Du Sud,https://api.spotify.com/v1/tracks/0OtLnXYlL9nvUDhD5CCVaY,戀戀咖啡館,0.703,0.748,1,-6.047,1,0.0435,0.123,0.0,0.0642,0.625,111.943,184080,4
 Petite fleur,https://api.spotify.com/v1/tracks/0oMp06EjwhYFvDB33VCiW3,戀戀咖啡館,0.499,0.419,4,-9.04,1,0.0421,0.913,3.93e-06,0.116,0.316,139.825,236732,4
 "Take Your Shoes Off, Baby",https://api.spotify.com/v1/tracks/0jkdBOicTlE2RHWiFma0k7,戀戀咖啡館,0.533,0.669,2,-10.775,1,0.185,0.297,3.97e-05,0.114,0.576,85.015,222427,4
-Para Não Contrariar Você,https://api.spotify.com/v1/tracks/3pfx3U7T1vGAflPwKQKQxk,戀戀咖啡館,0.418,0.383,4,-11.782,1,0.0257,0.0718,0.0177,0.0896,0.352,87.773,257480,4
-Où veux-tu aller ?,https://api.spotify.com/v1/tracks/3MrZpuWijCWDsCPl6bqDqc,戀戀咖啡館,0.46,0.8,1,-3.584,1,0.05,0.289,6.16e-06,0.121,0.553,102.46,220396,4
-La Piú Bella del Mondo,https://api.spotify.com/v1/tracks/3kKFPFHD7QY3nFN3thezLl,戀戀咖啡館,0.674,0.43,6,-8.647,1,0.0424,0.589,0.0134,0.101,0.326,104.01,228462,4
+Para Nao Contrariar Voce,https://api.spotify.com/v1/tracks/3pfx3U7T1vGAflPwKQKQxk,戀戀咖啡館,0.418,0.383,4,-11.782,1,0.0257,0.0718,0.0177,0.0896,0.352,87.773,257480,4
+Ou veux-tu aller ?,https://api.spotify.com/v1/tracks/3MrZpuWijCWDsCPl6bqDqc,戀戀咖啡館,0.46,0.8,1,-3.584,1,0.05,0.289,6.16e-06,0.121,0.553,102.46,220396,4
+La Piu Bella del Mondo,https://api.spotify.com/v1/tracks/3kKFPFHD7QY3nFN3thezLl,戀戀咖啡館,0.674,0.43,6,-8.647,1,0.0424,0.589,0.0134,0.101,0.326,104.01,228462,4
 Blue Bossa,https://api.spotify.com/v1/tracks/1fv0mJ9ZvWKJmxrsq6pxwe,戀戀咖啡館,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,219947,4
 Samba Saravah,https://api.spotify.com/v1/tracks/47ZC7WhpOrjU2lS8vKwr7W,戀戀咖啡館,0.559,0.455,11,-7.116,1,0.0458,0.87,0.0,0.12,0.125,121.59,212707,4
 Tragedy,https://api.spotify.com/v1/tracks/6iDRG4bz5YdoKhmHfVRpZw,戀戀咖啡館,0.626,0.475,8,-8.086,1,0.0666,0.124,0.0,0.092,0.424,84.035,177851,4
@@ -3956,7 +3956,7 @@ Love U U,https://api.spotify.com/v1/tracks/16o2AmA4xxtE3vMGl3zi0W,悲傷釋放,0
 我懷念的,https://api.spotify.com/v1/tracks/7z2M7DsEjZjwXBkWG3zd21,悲傷釋放,0.605,0.967,8,-2.78,1,0.0653,0.00135,2.79e-06,0.234,0.733,110.003,180600,4
 如歌,https://api.spotify.com/v1/tracks/29Sq4GBX1tf0LR1iIRwWX5,悲傷釋放,0.291,0.056,2,-14.977,1,0.0383,0.923,0.0,0.115,0.191,169.639,163588,4
 不是我不明白,https://api.spotify.com/v1/tracks/0sF71FvhMGSXzvn5WXq0k9,悲傷釋放,0.708,0.517,7,-7.466,1,0.0618,0.556,0.0,0.0992,0.457,87.992,200613,4
-你还要我怎样,https://api.spotify.com/v1/tracks/0kuKQQMx6L3efJuRVTgWQb,悲傷釋放,0.553,0.411,4,-8.665,1,0.0353,0.707,0.0,0.0774,0.231,119.923,287507,4
+你?要我怎?,https://api.spotify.com/v1/tracks/0kuKQQMx6L3efJuRVTgWQb,悲傷釋放,0.553,0.411,4,-8.665,1,0.0353,0.707,0.0,0.0774,0.231,119.923,287507,4
 Hao Jiu Bu Jian,https://api.spotify.com/v1/tracks/1nILhdgfPIaFUlvTNUtn9P,悲傷釋放,0.598,0.759,4,-7.719,1,0.0501,0.045,0.00028,0.131,0.473,102.684,209427,4
 幸福太短 - 電視劇「奇妙的時光之旅」片尾曲,https://api.spotify.com/v1/tracks/4bUXlEJRyV5YGERzh7AHuy,悲傷釋放,0.689,0.299,7,-9.431,1,0.0301,0.833,0.0,0.115,0.52,96.825,164479,4
 雙棲動物,https://api.spotify.com/v1/tracks/6c0cc99NWg4aTn3ZN40aCM,悲傷釋放,0.449,0.833,0,-7.67,1,0.0658,0.922,0.00882,0.377,0.197,99.831,259200,4
@@ -4048,20 +4048,20 @@ CROWN,https://api.spotify.com/v1/tracks/32h6yQGn4oAhZ0HRsTMX26,Morning K-Pop,0.5
 A REUM DA UN I BYEOL,https://api.spotify.com/v1/tracks/5dcRsgrAojHRlS0BFpmbdj,Morning K-Pop,0.7,0.902,11,-5.945,0,0.253,0.0857,0.0433,0.184,0.183,125.981,316569,4
 "Oh, Wait",https://api.spotify.com/v1/tracks/6gI80gaNBHirDcPukAA25M,Morning K-Pop,0.635,0.247,0,-11.141,0,0.0387,0.608,0.0,0.111,0.181,124.813,226646,4
 Wind flower,https://api.spotify.com/v1/tracks/2qwyjoSsSr3M7HTt611Q5O,Morning K-Pop,0.531,0.863,8,-4.082,1,0.114,0.121,0.0,0.123,0.584,120.055,172000,4
-You&I 인사,https://api.spotify.com/v1/tracks/6AoISiNZ4ibepHHkBGHvNH,Morning K-Pop,0.705,0.64,11,-6.928,0,0.225,0.0237,0.0,0.262,0.887,144.077,203760,4
+You&I ??,https://api.spotify.com/v1/tracks/6AoISiNZ4ibepHHkBGHvNH,Morning K-Pop,0.705,0.64,11,-6.928,0,0.225,0.0237,0.0,0.262,0.887,144.077,203760,4
 i i i,https://api.spotify.com/v1/tracks/2Phn8k2Eaxg73jY17SH7nq,Morning K-Pop,0.766,0.769,4,-10.508,0,0.0552,0.0336,0.29,0.548,0.968,124.0,217031,4
 Goldfish,https://api.spotify.com/v1/tracks/0G7ogPIUHwDQl30niksuGg,Morning K-Pop,0.461,0.195,10,-7.301,1,0.0352,0.873,0.0,0.11,0.381,110.193,170831,4
 Answer : Love Myself,https://api.spotify.com/v1/tracks/4eVkn18rN4GguUWOsR6Use,Morning K-Pop,0.507,0.883,11,-2.68,1,0.0364,0.0493,0.161,0.169,0.286,130.002,185080,4
 Only one for me,https://api.spotify.com/v1/tracks/4vxK5XbTTDNNKYbPDmZZC3,Morning K-Pop,0.571,0.815,6,-3.267,1,0.0321,0.0608,0.0,0.163,0.664,120.008,211460,4
 Hard to Start,https://api.spotify.com/v1/tracks/2MxlULOEyapHB4RBRd344M,Morning K-Pop,0.646,0.855,7,-8.69,0,0.0415,0.00102,0.141,0.126,0.589,121.993,378136,4
 Good Morning (feat. D-Hack),https://api.spotify.com/v1/tracks/3cbVV2c54L6MUj7JV5zolz,Morning K-Pop,0.699,0.295,1,-7.352,1,0.142,0.607,0.0,0.34,0.417,169.766,221625,4
-행복했던 날들이었다 days gone by,https://api.spotify.com/v1/tracks/3TE3SbiWrm69WyUl8BlZEV,Morning K-Pop,0.619,0.852,1,-7.096,1,0.0341,0.00681,0.021,0.108,0.209,121.985,189243,4
-올해 제일 잘한 일 The Best Thing I Ever Did,https://api.spotify.com/v1/tracks/1LiKPVgIQdR5Rk97o8a1fF,Morning K-Pop,0.58,0.455,6,-7.485,1,0.0333,0.663,0.000604,0.0675,0.369,133.023,191507,4
+???? ????? days gone by,https://api.spotify.com/v1/tracks/3TE3SbiWrm69WyUl8BlZEV,Morning K-Pop,0.619,0.852,1,-7.096,1,0.0341,0.00681,0.021,0.108,0.209,121.985,189243,4
+?? ?? ?? ? The Best Thing I Ever Did,https://api.spotify.com/v1/tracks/1LiKPVgIQdR5Rk97o8a1fF,Morning K-Pop,0.58,0.455,6,-7.485,1,0.0333,0.663,0.000604,0.0675,0.369,133.023,191507,4
 The Day I Miss You (feat. DAL),https://api.spotify.com/v1/tracks/365W64SsxM0EahGSBdqKHE,Morning K-Pop,0.664,0.978,9,-7.254,0,0.054,0.000369,0.857,0.131,0.593,127.947,443437,4
 Sunny Day,https://api.spotify.com/v1/tracks/1n0ET54Un0xvkVxrjT1u2m,Morning K-Pop,0.88,0.245,9,-10.245,1,0.446,0.785,3.19e-05,0.0979,0.638,76.006,172200,4
 36.5,https://api.spotify.com/v1/tracks/4jAdC1wuRgCLLFJVHeV1rV,Morning K-Pop,0.535,0.878,2,-4.103,1,0.05,0.109,2.18e-05,0.389,0.515,118.022,203390,4
 Friend,https://api.spotify.com/v1/tracks/5Ok0AYLymugVEB200ioKFN,Morning K-Pop,0.566,0.855,7,-4.016,1,0.211,0.0367,0.000162,0.181,0.513,172.977,247840,4
-Together 함께,https://api.spotify.com/v1/tracks/1lpPm656pzCr3ENuILWoPp,Morning K-Pop,0.77,0.757,7,-6.826,0,0.0542,0.00824,0.778,0.0706,0.683,126.999,283615,4
+Together ??,https://api.spotify.com/v1/tracks/1lpPm656pzCr3ENuILWoPp,Morning K-Pop,0.77,0.757,7,-6.826,0,0.0542,0.00824,0.778,0.0706,0.683,126.999,283615,4
 Whatcha Doin',https://api.spotify.com/v1/tracks/1kfEJ0w6qRZR9dIOWJGe0J,Morning K-Pop,0.57,0.0715,1,-16.327,1,0.0352,0.829,0.0405,0.112,0.146,120.166,222293,4
 "1, 2",https://api.spotify.com/v1/tracks/5L2dStRrWW1jXst2aBPSa5,Morning K-Pop,0.54,0.946,5,-5.581,1,0.0365,0.000844,0.607,0.255,0.342,128.008,159375,4
 Mattress,https://api.spotify.com/v1/tracks/7f5P2kfP16dELU9TOB53pL,Morning K-Pop,0.603,0.376,1,-9.77,1,0.0288,0.807,0.0,0.108,0.538,139.995,224573,4
@@ -4075,13 +4075,13 @@ Candle,https://api.spotify.com/v1/tracks/6FdRXt5c7mWFePJTbuSXeb,Morning K-Pop,0.
 One Happy Day (Monthly Project 2019 June Yoon Jong Shin with Urban Zakapa),https://api.spotify.com/v1/tracks/1NQYiGGwaa8Jpsas6VTniV,Morning K-Pop,0.501,0.314,8,-7.113,1,0.0317,0.894,0.0,0.107,0.248,80.832,333549,4
 Because of Winter,https://api.spotify.com/v1/tracks/4j17emxzhMOrrQ2t9ytSrq,Morning K-Pop,0.454,0.462,9,-7.847,1,0.028,0.606,0.0,0.141,0.263,79.995,282368,4
 Jazz In My,https://api.spotify.com/v1/tracks/0G94mkN5scLEgD8iVvxeDc,Morning K-Pop,0.661,0.908,5,-4.897,1,0.039,0.052,0.0,0.0708,0.656,144.091,296080,4
-Fade Away 니가 없는 (Bonus Track),https://api.spotify.com/v1/tracks/30px3jrgPn0Mp15xNpqN6t,Morning K-Pop,0.533,0.359,9,-9.45,1,0.0314,0.19,0.0,0.118,0.165,120.858,235840,4
+Fade Away ?? ?? (Bonus Track),https://api.spotify.com/v1/tracks/30px3jrgPn0Mp15xNpqN6t,Morning K-Pop,0.533,0.359,9,-9.45,1,0.0314,0.19,0.0,0.118,0.165,120.858,235840,4
 BEST FRIEND,https://api.spotify.com/v1/tracks/5GB0hU37rKZNVsHMu7FOM9,Morning K-Pop,0.728,0.454,0,-9.281,1,0.0278,0.512,1.39e-06,0.0831,0.323,130.368,241160,4
 Jupiter Rising,https://api.spotify.com/v1/tracks/09GXY43KLwv7zNdI2LREhx,Coffee and Piano,0.366,0.291,5,-9.977,1,0.0338,0.903,2.07e-05,0.127,0.0907,76.617,301667,4
 Notturno,https://api.spotify.com/v1/tracks/6XhO3CKHqmmHVyIZQCAt1C,Coffee and Piano,0.418,0.284,3,-12.694,1,0.0454,0.736,0.0,0.143,0.273,130.206,259054,4
 Lying To Myself,https://api.spotify.com/v1/tracks/1vVxZWn3OeYOGdY6aHJtmu,Coffee and Piano,0.705,0.898,5,-6.371,0,0.0702,0.207,0.00118,0.702,0.657,136.282,212000,4
 Blue Stone of Atlas - Piano Solo Version,https://api.spotify.com/v1/tracks/7N05mAG1X23Sd2PNOyoJSF,Coffee and Piano,0.522,0.383,4,-10.962,1,0.0285,0.714,1.67e-05,0.106,0.332,150.018,256000,4
-人生への古代のステップ,https://api.spotify.com/v1/tracks/6NEZlv8KhZ7D625Ry6g5s5,Coffee and Piano,0.711,0.292,4,-15.523,0,0.037,0.313,0.0,0.131,0.194,103.951,296800,4
+人生??古代?????,https://api.spotify.com/v1/tracks/6NEZlv8KhZ7D625Ry6g5s5,Coffee and Piano,0.711,0.292,4,-15.523,0,0.037,0.313,0.0,0.131,0.194,103.951,296800,4
 Old Habit,https://api.spotify.com/v1/tracks/4FoGnUdmnEsTxrsvRofMZr,Coffee and Piano,0.778,0.824,10,-5.892,0,0.0712,0.284,0.0,0.405,0.756,100.024,218093,4
 Sleeping like the Birchwood,https://api.spotify.com/v1/tracks/2FCFesDX0QOFkKIzpoqWD6,Coffee and Piano,0.548,0.483,9,-6.898,0,0.122,0.454,0.0347,0.122,0.226,99.988,223404,4
 Right,https://api.spotify.com/v1/tracks/1CJSXwBHGHGxXDVdglGQNV,Coffee and Piano,0.623,0.65,11,-3.786,0,0.032,0.0188,0.0,0.0687,0.366,112.072,175223,4
@@ -4091,7 +4091,7 @@ Human,https://api.spotify.com/v1/tracks/3xSMHqImMckctNyDwbc6dy,Coffee and Piano,
 feather,https://api.spotify.com/v1/tracks/0lFk8GCAu5gbxNCxPGuoOU,Coffee and Piano,0.454,0.423,9,-7.286,1,0.0552,0.544,0.0,0.0538,0.245,170.162,183661,4
 Keep Me,https://api.spotify.com/v1/tracks/21rxhltWEcMhJmEaSbma3z,Coffee and Piano,0.778,0.748,8,-6.298,1,0.0517,0.0215,0.0,0.047,0.635,105.994,203693,4
 Watch over me,https://api.spotify.com/v1/tracks/4w99ZLL7qibgmHD9G2Blce,Coffee and Piano,0.585,0.801,11,-5.406,0,0.0995,0.00601,8.2e-05,0.0865,0.283,101.987,221747,4
-Café Atmosphère,https://api.spotify.com/v1/tracks/2gHT8EoE25tFyQsRapByIF,Coffee and Piano,0.427,0.587,6,-6.453,1,0.0325,0.256,8.27e-06,0.127,0.324,167.711,279517,4
+Cafe Atmosphere,https://api.spotify.com/v1/tracks/2gHT8EoE25tFyQsRapByIF,Coffee and Piano,0.427,0.587,6,-6.453,1,0.0325,0.256,8.27e-06,0.127,0.324,167.711,279517,4
 You Are Peace,https://api.spotify.com/v1/tracks/5i9EFDkipPL6BwtLJSEDp9,Coffee and Piano,0.368,0.419,9,-8.348,1,0.0651,0.41,2.31e-06,0.196,0.328,172.079,228390,3
 Tampa,https://api.spotify.com/v1/tracks/4UYin1lrCwg96nRWRUfr5V,Coffee and Piano,0.532,0.707,11,-7.291,1,0.0461,0.305,2.11e-06,0.374,0.602,157.845,177263,1
 Fragment,https://api.spotify.com/v1/tracks/3VBPPIu4MGBnMj4SF8sJBJ,Coffee and Piano,0.644,0.821,1,-4.606,1,0.0389,0.00405,1.33e-05,0.0543,0.669,128.963,219445,4
@@ -4130,7 +4130,7 @@ Using (with Emily Warren) - Syn Cole Remix,https://api.spotify.com/v1/tracks/7Hn
 Leaving (feat. Yuna),https://api.spotify.com/v1/tracks/6UDrfHEnUWI3O03sacM3KO,Sad Beats,0.621,0.943,11,-4.591,0,0.144,0.0113,0.0,0.135,0.747,114.955,189520,4
 Broken Hearts,https://api.spotify.com/v1/tracks/5te8pHB1ZwE6pZvRJm4H1N,Sad Beats,0.291,0.322,2,-9.208,1,0.0327,0.744,0.0,0.116,0.331,167.32,245561,4
 Emotion,https://api.spotify.com/v1/tracks/5Rnv9hVUuyc5Q7jiFRHRwm,Sad Beats,0.624,0.65,6,-6.209,0,0.106,0.156,0.0,0.238,0.0702,103.998,168767,4
-"Affliction (Tiësto & Zaxx, feat. Olivera)",https://api.spotify.com/v1/tracks/3p7KP0WUSpQf5r2xtkws1F,Sad Beats,0.522,0.626,4,-8.182,1,0.052,0.000449,0.00126,0.142,0.385,115.004,162320,4
+"Affliction (Tiesto & Zaxx, feat. Olivera)",https://api.spotify.com/v1/tracks/3p7KP0WUSpQf5r2xtkws1F,Sad Beats,0.522,0.626,4,-8.182,1,0.052,0.000449,0.00126,0.142,0.385,115.004,162320,4
 You Don't Even Know Me,https://api.spotify.com/v1/tracks/3OsCxc7lvB2u9WZMGO69DF,Sad Beats,0.379,0.078,2,-20.91,1,0.0384,0.975,0.95,0.106,0.0995,95.149,133746,4
 Tough (feat. Noah Kahan),https://api.spotify.com/v1/tracks/5ZYkBb4UrdultbjwuBYmKF,Sad Beats,0.747,0.719,9,-8.088,0,0.108,0.0156,0.0128,0.134,0.456,92.986,223001,4
 Ain't A Thing (feat. Bonn),https://api.spotify.com/v1/tracks/3MhNgzZwFtUF6jSr6pRSkW,Sad Beats,0.578,0.412,0,-12.999,0,0.0329,0.852,0.00658,0.111,0.22,142.906,233133,4
@@ -4523,7 +4523,7 @@ Breakaway,https://api.spotify.com/v1/tracks/2k5QqRnAn3iFdQ59EHiuSs,我的微醺�
 The Comments,https://api.spotify.com/v1/tracks/4xPa2vDWT90V1vDMAeV7kO,我的微醺夜,0.704,0.758,0,-3.537,1,0.0402,0.233,0.00144,0.0924,0.534,120.003,214907,4
 "The Sun Will Come up, The Seasons Will Change",https://api.spotify.com/v1/tracks/5LSJJJ0aMC6br4qV9y2VnL,我的微醺夜,0.728,0.739,3,-6.95,1,0.151,0.0968,0.0,0.0889,0.311,125.064,167587,4
 Don't Disappoint Me,https://api.spotify.com/v1/tracks/3YO9uV2vhmC9Bnm2zhEkqb,我的微醺夜,0.539,0.778,1,-6.32,0,0.0612,0.0169,6.68e-06,0.276,0.42,143.988,254556,4
-Feels So Good ◑,https://api.spotify.com/v1/tracks/5UV4u1vdRO9zvsqe1rjNBO,我的微醺夜,0.454,0.924,10,-4.38,1,0.0604,0.0694,0.0,0.125,0.505,150.967,195863,3
+Feels So Good ?,https://api.spotify.com/v1/tracks/5UV4u1vdRO9zvsqe1rjNBO,我的微醺夜,0.454,0.924,10,-4.38,1,0.0604,0.0694,0.0,0.125,0.505,150.967,195863,3
 take care,https://api.spotify.com/v1/tracks/2kjZc9M1lN5ZMAyWesfUPs,我的微醺夜,0.72,0.413,6,-8.01,1,0.0402,0.673,0.0,0.116,0.195,121.994,241882,4
 ur cute but boring,https://api.spotify.com/v1/tracks/2wUaA9ooEpcjVZ6G6DKtQH,我的微醺夜,0.592,0.873,9,-5.65,1,0.0275,0.0715,0.00982,0.142,0.516,122.011,277262,4
 Long Gone,https://api.spotify.com/v1/tracks/13RpoUelvsqdFyUUqZfxwo,我的微醺夜,0.714,0.683,11,-6.333,1,0.0443,0.196,7.73e-06,0.102,0.824,127.021,231653,4
