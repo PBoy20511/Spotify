@@ -108,3 +108,5 @@ venv.bak/
 /.vscode
 user.json
 test.py
+debug.txt
+*.ipynb
