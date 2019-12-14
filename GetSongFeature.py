@@ -8,25 +8,25 @@ import requests
 from GetPlaylist import get_token, print_dict, timer, use_spotipy
 
 
-def read_song(id: str) -> list:
+def read_song(id: str) -> dict:
     """
         Get song audio feature of given song
         Parameter: id(string)
-        Required: track URL(Spotify Track URI)
-        Return: list contains information of given song
+        Return: dict contains information of given song
     """
 
     global TOKEN
 
-    featureUrl = f"https://api.spotify.com/v1/audio-features/{id}"
+    url = f"https://api.spotify.com/v1/audio-features/{id}"
     # API Limit Exceed(429 Error) Situation Handled
-    response = requests.get(featureUrl, headers={"Authorization": f"Bearer {TOKEN}"})
+    response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
     while response.status_code == 429:
-        sleep(1)
-        response = requests.get(id, headers={"Authorization": f"Bearer {TOKEN}"})
+        sleep(5)
+        response = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
 
     content = json.loads(response.text)
-    for i in ["type", "id", "uri", "track_href", "analysis_url"]:
+
+    for i in ["type", "uri", "track_href", "analysis_url"]:
         del content[i]
 
     return content
@@ -40,8 +40,7 @@ def read_all_song(songlist: list, nameList: list) -> list:
         results = [executor.submit(read_song, url) for url in songlist]
 
     songInfo = [
-        dict(**{"song": name}, **content.result())
-        for name, content in zip(nameList, concurrent.futures.as_completed(results))
+        content.result() for content in concurrent.futures.as_completed(results)
     ]
 
     return songInfo
@@ -52,7 +51,7 @@ def merge_dataframe(info: pd.DataFrame, data: list) -> pd.DataFrame:
 
     feature = pd.DataFrame.from_dict(data, orient="columns")
 
-    return pd.merge(info, feature, on="song")
+    return pd.merge(info, feature, on="id")
 
 
 if __name__ == "__main__":
@@ -62,11 +61,10 @@ if __name__ == "__main__":
 
     FILE, CSV = "user.json", "Mood.csv"
     TOKEN = get_token(FILE)
-    df = pd.read_csv(CSV)
+    df = pd.read_csv(CSV, engine="python")
     nameList, songList = df["song"].tolist(), df["id"].tolist()
-    # print(nameList[0], songList[0])
-    # data = read_all_song(songList[:10], nameList[:10])
-    # data = read_song(songList[0])
-    # print(data)
+    data = read_song("0dckSimRu0AX3yBtH1DVjZ")
+    print(data)
+    # data = read_all_song(songList, nameList)
     # newDf = merge_dataframe(df, data)
-    # newDf.to_csv("TEST.csv", index=False, encoding="utf-8")
+    # newDf.to_csv("SongInfo.csv", index=False, encoding="utf-8", mode="w", header=True)
