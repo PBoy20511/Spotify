@@ -107,6 +107,7 @@ venv.bak/
 # Secret File
 /.vscode
 user.json
+user2.json
 test.py
 debug.txt
 *.ipynb
