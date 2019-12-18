@@ -123,7 +123,7 @@ def clean_data(data: dict, number: str) -> dict:
 
 
 if __name__ == "__main__":
-    with open("data/first_clean.json", "r") as file:
+    with open("data/clean.json", "r") as file:
         data = json.load(file)
 
     for i in data.keys():
