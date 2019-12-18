@@ -3,6 +3,11 @@ import pandas as pd
 import numpy as np
 from numpy import mean, var, median
 
+"""
+    You should get Spotify track audio-analysis data first via GetAnalysis.py to
+    be able to run this file. 
+"""
+
 
 def clean_data(number: str) -> dict:
     """ Create Features based on Spotify analysis data and will be stored in dictionary """
@@ -128,5 +133,4 @@ if __name__ == "__main__":
     df = df.drop("key", axis=1)
 
     new_df = pd.merge(df, feature, on="id")
-
     # new_df.to_excel("FILENAME.xlsx", index=False, encoding="utf-8", header=True)
