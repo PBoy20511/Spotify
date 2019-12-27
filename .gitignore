@@ -105,10 +105,12 @@ venv.bak/
 
 
 # Secret File
-/.vscode
 *.json
-test.py
-debug.txt
+*.rmd
 *.ipynb
 *zip
+test.py
 feature.xlsx
+
+# Personal Settings
+/.vscode
