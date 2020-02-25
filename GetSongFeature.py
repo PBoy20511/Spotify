@@ -63,7 +63,7 @@ if __name__ == "__main__":
     TOKEN = get_token(FILE)
     df = pd.read_csv(CSV, engine="python")
     nameList, songList = df["song"].tolist(), df["id"].tolist()
-    data = read_song("0b39vjnPaxVh6fY1Wj81MA")
+    data = read_song("20I6sIOMTCkB6w7ryavxtO")
     print(data)
     # data = read_all_song(songList, nameList)
     # newDf = merge_dataframe(df, data)
