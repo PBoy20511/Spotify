@@ -114,3 +114,4 @@ feature.xlsx
 
 # Personal Settings
 /.vscode
+.Rhistory
